@@ -1,0 +1,6654 @@
+Enemy Database
+
+[Giant Centipede]
+
+Stats
+
+HP: 32
+Str: 19
+Vit: 5
+Wit: 9
+Agi: 22
+
+Exp: 2
+GP: 4
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Shooting Thorns
+Power: 116
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Marna Bug]
+
+Stats
+
+HP: 18
+Str: 18
+Vit: 5
+Wit: 13
+Agi: 30
+
+Exp: 1
+GP: 3
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+String Orb
+Power: 103
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 9
+Earth: 11
+
+
+[Green Slime]
+
+Stats
+
+HP: 45
+Str: 20
+Vit: 2
+Wit: 1
+Agi: 16
+
+Exp: 2
+GP: 4
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Coverup
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 0
+Water: 9
+Wind: 4
+Earth: 4
+
+
+[Baby Bat]
+
+Stats
+
+HP: 18
+Str: 20
+Vit: 6
+Wit: 19
+Agi: 33
+
+Exp: 1
+GP: 3
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Sonar
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 5
+Wind: 7
+Earth: 11
+
+
+[Rock Bird]
+
+Stats
+
+HP: 230
+Str: 21
+Vit: 10
+Wit: 13
+Agi: 19
+
+Exp: 30
+GP: 150
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Fire Orb
+Power: 11
+Element: Fire
+Strength: No
+Speed: 30
+
+Rock Feather
+Power: 108
+Element: Earth
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Spyder]
+
+Stats
+
+HP: 36
+Str: 21
+Vit: 8
+Wit: 16
+Agi: 45
+
+Exp: 3
+GP: 6
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Sticky Fluid
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Orc]
+
+Stats
+
+HP: 70
+Str: 29
+Vit: 10
+Wit: 15
+Agi: 30
+
+Exp: 4
+GP: 20
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Bite
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Orc King]
+
+Stats
+
+HP: 385
+Str: 32
+Vit: 11
+Wit: 15
+Agi: 40
+
+Exp: 70
+GP: 450
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Fire Breath
+Power: 11
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Ghostoid]
+
+Stats
+
+HP: 62
+Str: 27
+Vit: 11
+Wit: 45
+Agi: 35
+
+Exp: 4
+GP: 1
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Shout!
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 7
+Wind: 4
+Earth: 11
+
+
+[Sea Jelly]
+
+Stats
+
+HP: 68
+Str: 29
+Vit: 8
+Wit: 28
+Agi: 25
+
+Exp: 5
+GP: 10
+
+# of Attacks: 1
+Range: 1
+
+Skills
+
+Spin Tentacle
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Electric Shock
+Power: 13
+Element: Lightning
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 4
+Water: 9
+Wind: 7
+Earth: 7
+
+
+[Ammonite]
+
+Stats
+
+HP: 56
+Str: 27
+Vit: 24
+Wit: 22
+Agi: 25
+
+Exp: 5
+GP: 12
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Spin Attack
+Power: 140
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Squid King]
+
+Stats
+
+HP: 592
+Str: 34
+Vit: 15
+Wit: 26
+Agi: 10
+
+Exp: 74
+GP: 1000
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Suck In
+Power: 2
+Element: Wind
+Strength: 5?
+Speed: 30
+
+Goaround
+Power: 120
+Element:N/A
+Strength: Yes
+Speed: 30
+
+Tentacle Thrust
+Power: 150
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Shockwave
+Power: 105
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Laser Eye
+Power: 135
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Spells
+
+Magic Power: 3
+Howl
+
+Resistances
+
+Fire: 5
+Water: 7
+Wind: 6
+Earth: 7
+
+
+[Left Tentacle](Squid King)
+
+Stats
+
+HP: 438
+Str: 42
+Vit: 10
+Wit: 24
+Agi: 10
+
+Exp: 40
+GP: 500
+
+# of Attacks: 1
+Range: 5
+
+Resistances
+
+Fire: 5
+Water: 7
+Wind: 5
+Earth: 7
+
+
+[Right Tentacle](Squid King)
+
+Stats
+
+HP: 356
+Str: 36
+Vit: 12
+Wit: 12
+Agi: 10
+
+Exp: 40
+GP: 500
+
+# of Attacks: 1
+Range: 5
+
+Spells
+
+Magic Power: 4
+Howl
+Alheal
+
+Resistances
+
+Fire: 4
+Water: 7
+Wind: 5
+Earth: 7
+
+
+[Spitting Cobra]
+
+Stats
+
+HP: 60
+Str: 31
+Vit: 15
+Wit: 32
+Agi: 20
+
+Exp: 6
+GP: 14
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Spew Poison
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Black Widow]
+
+Stats
+
+HP: 53
+Str: 30
+Vit: 13
+Wit: 29
+Agi: 30
+
+Exp: 6
+GP: 13
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Gummy Fluid
+Power: 253
+Element: N/A
+Strength: 3?
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Roadcrawler]
+
+Stats
+
+HP: 40
+Str: 33
+Vit: 25
+Wit: 26
+Agi: 14
+
+Exp: 7
+GP: 15
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Poison Gas
+Power: 140
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Glug Bird]
+
+Stats
+
+HP: 65
+Str: 35
+Vit: 16
+Wit: 26
+Agi: 41
+
+Exp: 7
+GP: 16
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Back Kick
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 3
+Earth: 7
+
+
+[Purple Slime]
+
+Stats
+
+HP: 70
+Str: 37
+Vit: 12
+Wit: 25
+Agi: 5
+
+Exp: 2
+GP: 10
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Divide
+Power: 0
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 3
+Water: 9
+Wind: 4
+Earth: 14
+
+
+[Mud Jelly]
+
+Stats
+
+HP: 73
+Str: 35
+Vit: 16
+Wit: 15
+Agi: 12
+
+Exp: 10
+GP: 17
+
+# of Attacks: 1
+Range: 1
+
+Skills
+
+Spin Tentacle
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Shock Bomb
+Power: 23
+Element: Lightning
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 0
+Water: 9
+Wind: 2
+Earth: 7
+
+
+[Mad Snail]
+
+Stats
+
+HP: 60
+Str: 35
+Vit: 26
+Wit: 28
+Agi: 8
+
+Exp: 8
+GP: 40
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Spin Attack
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 2
+Water: 7
+Wind: 2
+Earth: 7
+
+
+[Chang]
+
+Stats
+
+HP: 738
+Str: 38
+Vit: 21
+Wit: 50
+Agi: 35
+
+Exp: 235
+GP: 800?
+
+# of Attacks: 3
+Range: 3
+
+Skills
+
+Spin Kick
+Power: 21
+Element: N/A
+Strength: No
+Speed: 30
+
+Tornado
+Power: 24
+Element: N/A
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Inchworm]
+
+Stats
+
+HP: 65
+Str: 41
+Vit: 20
+Wit: 25
+Agi: 10
+
+Exp: 9
+GP: 20
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Sleep Gas
+Power: 113
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 6
+Water: 6
+Wind: 6
+Earth: 6
+
+
+[Odd Bird]
+
+Stats
+
+HP: 127
+Str: 43
+Vit: 18
+Wit: 90
+Agi: 60
+
+Exp: 11
+GP: 24
+
+# of Attacks: 2
+Range: 2
+
+Skills
+
+Feather Shuriken
+Power: 135
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Confuse Wing
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 5
+Wind: 5
+Earth: 11
+
+
+[Ent]
+
+Stats
+
+HP: 55
+Str: 45
+Vit: 60
+Wit: 30
+Agi: 11
+
+Exp: 17
+GP: 40
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Nut Bomb
+Power: 25
+Element: Explosion
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 4
+Water: 6
+Wind: 5
+Earth: 7
+
+
+[Red Slime]
+
+Stats
+
+HP: 100
+Str: 37
+Vit: 12
+Wit: 25
+Agi: 7
+
+Exp: 2
+GP: 18
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Divide
+Power: 0
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Red Slime Gas
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 0
+Water: 9
+Wind: 4
+Earth: 4
+
+
+[Sand Diver]
+
+Stats
+
+HP: 78
+Str: 47
+Vit: 27
+Wit: 33
+Agi: 38
+
+Exp: 11
+GP: 100
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Sand Shower
+Power: 254
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 12
+Earth: 2
+
+
+[Vampire Bat]
+
+Stats
+
+HP: 45
+Str: 37
+Vit: 25
+Wit: 64
+Agi: 17
+
+Exp: 14
+GP: 21
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Suck Blood
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 5
+Wind: 7
+Earth: 11
+
+
+[Dom Orc]
+
+Stats
+
+HP: 106
+Str: 45
+Vit: 35
+Wit: 32
+Agi: 15
+
+Exp: 14
+GP: 21
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Bite
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Vengeful Spirit]
+
+Stats
+
+HP: 35
+Str: 40
+Vit: 100
+Wit: 15
+Agi: 14
+
+Exp: 18
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Divide
+Power: 0
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 4
+Water: 7
+Wind: 4
+Earth: 14
+
+
+[Ganymede](Shell)(Boss)
+
+Stats
+
+HP: 1500
+Str: 42
+Vit: 34
+Wit: 15
+Agi: 10
+
+Exp: 500
+GP: 0
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Suck In
+Power: 2
+Element: Wind
+Strength: 5?
+Speed: 30
+
+Rush Attack
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 8
+Water: 5
+Wind: 7
+Earth: 7
+
+
+[Ganymede](Head)(Boss)
+
+Stats
+
+HP: 1500
+Str: 47
+Vit: 30
+Wit: 15
+Agi: 10
+
+Exp: 500
+GP: 0
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Suck In
+Power: 2
+Element: Wind
+Strength: 5?
+Speed: 30
+
+Beat Attack
+Power: 108
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 3
+Wind: 6
+Earth: 7
+
+
+[Beetlebug]
+
+Stats
+
+HP: 108
+Str: 55
+Vit: 32
+Wit: 100
+Agi: 80
+
+Exp: 9
+GP: 50
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Dizzy Spin
+Power: 2
+Element: N/A
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 5
+Earth: 9
+
+
+[Private]
+
+Stats
+
+HP: 110
+Str: 50
+Vit: 26
+Wit: 42
+Agi: 16
+
+Exp: 15
+GP: 100
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Heavy Blow
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Saki](1st Fight)
+
+Stats
+
+HP: 1000
+Str: 53
+Vit: 45
+Wit: 120
+Agi: 70
+
+Exp: 85
+GP: 500
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Power Lariat
+Power: 140
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Slap Stick
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 8
+Water: 8
+Wind: 8
+Earth: 8
+
+
+[Nana](1st Fight)
+
+Stats
+
+HP: 900
+Str: 60
+Vit: 36
+Wit: 100
+Agi: 50
+
+Exp: 85
+GP: 1000
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Yo-Yo
+Power: 10
+Element: N/A
+Strength: No
+Speed: 60
+
+Spinning Yo-Yo
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 8
+Water: 8
+Wind: 8
+Earth: 8
+
+
+[Mio](1st Fight)
+
+Stats
+
+HP: 700
+Str: 50
+Vit: 30
+Wit: 110
+Agi: 22
+
+Exp: 85
+GP: 2000
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Balloon
+Power: 1
+Element: N/A
+Strength: 2?
+Speed: 60
+
+Stun Gun
+Power: 25
+Element: Lightning
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 9
+Earth: 7
+
+
+[Sergeant]
+
+Stats
+
+HP: 220
+Str: 50
+Vit: 26
+Wit: 46
+Agi: 18
+
+Exp: 19
+GP: 45
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Heavy Blow
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Wave Cut
+Power: 150
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Mist Guard]
+
+Stats
+
+HP: 95
+Str: 54
+Vit: 60
+Wit: 35
+Agi: 15
+
+Exp: 17
+GP: 23
+
+# of Attacks: 2
+Range: 2
+
+Skills
+
+Random Nut
+Power: 253
+Element: N/A
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 1
+Water: 11
+Wind: 7
+Earth: 10
+
+
+[Birdrake]
+
+Stats
+
+HP: 80
+Str: 60
+Vit: 25
+Wit: 50
+Agi: 60
+
+Exp: 19
+GP: 20
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Magic Block Wing
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Move Block Wing
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 5
+Wind: 5
+Earth: 11
+
+
+[Grim Haze]
+
+Stats
+
+HP: 50
+Str: 60
+Vit: 1
+Wit: 90
+Agi: 25
+
+Exp: 18
+GP: 18
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Cloud Attack
+Power: 22
+Element: Wind
+Strength: No
+Speed: 30
+
+Spells
+
+Magic Power: 3
+Howl
+
+Resistances
+
+Fire: 4
+Water: 9
+Wind: 4
+Earth: 11
+
+
+[Metal Beetle]
+
+Stats
+
+HP: 60
+Str: 50
+Vit: 45
+Wit: 20
+Agi: 60
+
+Exp: 25
+GP: 50
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Wing Sonar
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Magic Block Orb
+Power: 3
+Element: N/A
+Strength: 7?
+Speed: 30
+
+Resistances
+
+Fire: 14
+Water: 14
+Wind: 14
+Earth: 14
+
+
+[Pit Viper]
+
+Stats
+
+HP: 124
+Str: 59
+Vit: 8
+Wit: 47
+Agi: 35
+
+Exp: 21
+GP: 21
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Paralyze Fluid
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Tarantula]
+
+Stats
+
+HP: 98
+Str: 55
+Vit: 21
+Wit: 50
+Agi: 25
+
+Exp: 30
+GP: 16
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Gooey Fluid
+Power: 3
+Element: N/A
+Strength: 6?
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Gas Cloud]
+
+Stats
+
+HP: 125
+Str: 55
+Vit: 0
+Wit: 10
+Agi: 25
+
+Unknown: 1500
+
+Exp: 31
+GP: 18
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Cloud Attack
+Power: 22
+Element: Wind
+Strength: No
+Speed: 30
+
+Spells
+
+Magic Power: 3
+Howl
+
+Resistances
+
+Fire: 4
+Water: 9
+Wind: 4
+Earth: 11
+
+
+[Killer Tree]
+
+Stats
+
+HP: 80
+Str: 57
+Vit: 60
+Wit: 20
+Agi: 17
+
+Unknown: 1200
+
+Exp: 31
+GP: 18
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Grapple Nut
+Power: 112
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Combo Attack
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 1
+Water: 11
+Wind: 4
+Earth: 5
+
+
+[Dodo]
+
+Stats
+
+HP: 96
+Str: 52
+Vit: 15
+Wit: 65
+Agi: 40
+
+Unknown: 950
+
+Exp: 25
+GP: 27
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Dart Feather
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Random Shuriken
+Power: 95
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 1
+Water: 7
+Wind: 10
+Earth: 11
+
+
+[Mist Wraith]
+
+Stats
+
+HP: 115
+Str: 57
+Vit: 40
+Wit: 55
+Agi: 25
+
+Unknown: 1700
+
+Exp: 30
+GP: 18
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Invisible
+Power: 0
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Block Attacks
+Power: 0
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Spells
+
+Magic Power: 2
+Burnflame
+Poizn
+
+Resistances
+
+Fire: 4
+Water: 9
+Wind: 5
+Earth: 11
+
+
+[Clay Bird]
+
+Stats
+
+HP: 203
+Str: 55
+Vit: 45
+Wit: 45
+Agi: 23
+
+Unknown: 1750
+
+Exp: 75
+GP: 120
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Clay Breath
+Power: 25
+Element: Fire
+Strength: No
+Speed: 30
+
+Clay Feather
+Power: 115
+Element: Earth
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 11
+
+
+[Sonic Bat]
+
+Stats
+
+HP: 81
+Str: 47
+Vit: 25
+Wit: 70
+Agi: 25
+
+Unknown: 1200
+
+Exp: 25
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Mana Capture
+Power: 1
+Element: N/A
+Strength: No
+Speed: 30
+
+Sonar
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 5
+Wind: 7
+Earth: 7
+
+
+[Emerald Bird]
+
+Stats
+
+HP: 268
+Str: 60
+Vit: 45
+Wit: 50
+Agi: 26
+
+Unknown: 2000
+
+Exp: 100
+GP: 200
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Emerald Bomb
+Power: 30
+Element: Fire
+Strength: No
+Speed: 30
+
+Heavy Feather
+Power: 125
+Element: Earth
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 11
+
+
+[Plop Mold]
+
+Stats
+
+HP: 129
+Str: 62
+Vit: 30
+Wit: 25
+Agi: 25
+
+Unknown: 1000
+
+Exp: 15
+GP: 24
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Poison Spores
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 4
+Water: 6
+Wind: 5
+Earth: 11
+
+
+[Red Devil]
+
+Stats
+
+HP: 87
+Str: 62
+Vit: 45
+Wit: 35
+Agi: 17
+
+Unknown: 1500
+
+Exp: 20
+GP: 32
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Demon Throw
+Power: 18
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 9
+Water: 8
+Wind: 8
+Earth: 8
+
+
+[Slipple]
+
+Stats
+
+HP: 67
+Str: 52
+Vit: 35
+Wit: 58
+Agi: 80
+
+Unknown: 1200
+
+Exp: 25
+GP: 18
+
+# of Attacks: 2
+Range: 4
+
+Skills
+
+Twister Tentacle
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 9
+Water: 9
+Wind: 9
+Earth: 10
+
+
+[Gadwin](1st Fight)
+
+Stats
+
+HP: 300
+Str: 999
+Vit: 999
+Wit: 45
+Agi: 30
+
+Unknown: 6000
+
+Exp: 0
+GP: 0
+
+# of Attacks: 2
+Range: 6
+
+Skills
+
+Eruption Cut
+Power: 150
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Flying Dragon Cut
+Power: 120
+Element: Earth
+Strength: 2?
+Speed: 30
+
+Dragon Cut
+Power: 999
+Element: Earth
+Strength: 2?
+Speed: 30
+
+Resistances
+
+Fire: 14
+Water: 14
+Wind: 14
+Earth: 14
+
+
+[Rock Man]
+
+Stats
+
+HP: 81
+Str: 72
+Vit: 50
+Wit: 41
+Agi: 13
+
+Unknown: 2800
+
+Exp: 42
+GP: 50
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Rock Throw
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 14
+Water: 14
+Wind: 14
+Earth: 14
+
+
+[Klepp Soldier]
+
+Stats
+
+HP: 160
+Str: 62
+Vit: 35
+Wit: 30
+Agi: 30
+
+Unknown: 950
+
+Exp: 35
+GP: 40
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Slash Mace
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 13
+Wind: 7
+Earth: 7
+
+
+[Lizard Rider]
+
+Stats
+
+HP: 220
+Str: 68
+Vit: 50
+Wit: 50
+Agi: 50
+
+Unknown: 6400
+
+Exp: 50
+GP: 60
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Breath
+Power: 25
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 13
+Wind: 7
+Earth: 10
+
+
+[Elite Klepp]
+
+Stats
+
+HP: 170
+Str: 65
+Vit: 35
+Wit: 70
+Agi: 40
+
+Unknown: 1200
+
+Exp: 40
+GP: 80
+
+# of Attacks: 2
+Range: 4
+
+Skills
+
+Slash Mace
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Diving
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 13
+Wind: 7
+Earth: 10
+
+
+[Mad Rider]
+
+Stats
+
+HP: 230
+Str: 70
+Vit: 55
+Wit: 100
+Agi: 60
+
+Unknown: 6400
+
+Exp: 60
+GP: 65
+
+# of Attacks: 2
+Range: 5
+
+Skills
+
+Neck-a-Neck Breath
+Power: 65533
+Element: N/A
+Strength: No
+Speed: 30
+
+Mad Tackle
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 13
+Wind: 7
+Earth: 10
+
+
+[Klepp Knight]
+
+Stats
+
+HP: 180
+Str: 70
+Vit: 50
+Wit: 58
+Agi: 40
+
+Unknown: 2000
+
+Exp: 45
+GP: 90
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Spin Mace
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 13
+Wind: 7
+Earth: 10
+
+
+[Klepp Rider]
+
+Stats
+
+HP: 216
+Str: 70
+Vit: 60
+Wit: 50
+Agi: 40
+
+Unknown: 6400
+
+Exp: 70
+GP: 70
+
+# of Attacks: 2
+Range: 5
+
+Skills
+
+Killer Breath
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Killer Tackle
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 13
+Wind: 7
+Earth: 10
+
+
+[Serpent]
+
+Stats
+
+HP: 1071
+Str: 75
+Vit: 30
+Wit: 20
+Agi: 14
+
+Unknown: 1000
+
+Exp: 1250
+GP: 2400
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+4-Head Attack
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Bad Head](Serpent)
+
+Stats
+
+HP: 600
+Str: 80
+Vit: 30
+Wit: 30
+Agi: 14
+
+Unknown: 1000
+
+Exp: 320
+GP: 120
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Stun Gas
+Power: 90
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Hot Head](Serpent)
+
+Stats
+
+HP: 516
+Str: 80
+Vit: 30
+Wit: 100
+Agi: 14
+
+Unknown: 1000
+
+Exp: 320
+GP: 120
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Hot Gas
+Power: 23
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Nice Head](Serpent)
+
+Stats
+
+HP: 800
+Str: 80
+Vit: 33
+Wit: 50
+Agi: 14
+
+Unknown: 1000
+
+Exp: 320
+GP: 120
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Recover Gas
+Power: 140
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Mean Head](Serpent)
+
+Stats
+
+HP: 486
+Str: 70
+Vit: 30
+Wit: 30
+Agi: 14
+
+Unknown: 1000
+
+Exp: 320
+GP: 120
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Killer Bite
+Power: 90
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Gripple]
+
+Stats
+
+HP: 155
+Str: 66
+Vit: 58
+Wit: 67
+Agi: 23
+
+Unknown: 1600
+
+Exp: 25
+GP: 18
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Dizzy Tentacle
+Power: 2
+Element: N/A
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 5
+Wind: 5
+Earth: 5
+
+
+[Blue Kite]
+
+Stats
+
+HP: 135
+Str: 69
+Vit: 100
+Wit: 100
+Agi: 50
+
+Unknown: 1200
+
+Exp: 35
+GP: 27
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Glide Attack
+Power: 105
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 2
+Water: 2
+Wind: 2
+Earth: 2
+
+
+[Blue Devil]
+
+Stats
+
+HP: 145
+Str: 75
+Vit: 50
+Wit: 64
+Agi: 20
+
+Unknown: 2000
+
+Exp: 70
+GP: 50
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Demon Throw
+Power: 30
+Element: Wind
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 8
+Water: 8
+Wind: 9
+Earth: 8
+
+
+[Hot Dog]
+
+Stats
+
+HP: 164
+Str: 75
+Vit: 35
+Wit: 90
+Agi: 28
+
+Unknown: 1300
+
+Exp: 45
+GP: 5
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Flame Howl
+Power: 20
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 14
+Water: 1
+Wind: 3
+Earth: 7
+
+
+[Lost Soul]
+
+Stats
+
+HP: 75
+Str: 70
+Vit: 100
+Wit: 68
+Agi: 25
+
+Unknown: 1000
+
+Exp: 40
+GP: 20
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Flame Shot
+Power: 30
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 13
+Water: 4
+Wind: 4
+Earth: 11
+
+
+[Magma Man]
+
+Stats
+
+HP: 211
+Str: 80
+Vit: 66
+Wit: 43
+Agi: 16
+
+Unknown: 2000
+
+Exp: 75
+GP: 40
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Lava Throw
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 13
+Water: 0
+Wind: 3
+Earth: 9
+
+
+[Madragon](Boss)
+
+Stats
+
+HP: 2150
+Str: 100
+Vit: 65
+Wit: 40
+Agi: 50
+
+Unknown: 2500
+
+Exp: 1450
+GP: 4500
+
+# of Attacks: 1
+Range: 18
+
+Skills
+
+Flame Breath
+Power: 50
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 14
+Water: 3
+Wind: 7
+Earth: 7
+
+
+[Madragon](Boss)(Head)
+
+Stats
+
+HP: 2150
+Str: 80
+Vit: 58
+Wit: 65
+Agi: 50
+
+Unknown: 
+
+Exp: 
+GP: 
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Flame Breath
+Power: 50
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 14
+Water: 6
+Wind: 7
+Earth: 9
+
+
+[Medusa Dancer]
+
+Stats
+
+HP: 256
+Str: 80
+Vit: 72
+Wit: 105
+Agi: 70
+
+Unknown: 2000
+
+Exp: 75
+GP: 120
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Life Drain
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Magic Block
+Power: 4
+Element: N/A
+Strength: 7?
+Speed: 30
+
+Resistances
+
+Fire: 4
+Water: 6
+Wind: 6
+Earth: 4
+
+
+[Horned Toad]
+
+Stats
+
+HP: 112
+Str: 70
+Vit: 57
+Wit: 65
+Agi: 26
+
+Unknown: 900
+
+Exp: 40
+GP: 50
+
+# of Attacks: 2
+Range: 4
+
+Skills
+
+Spin Needle
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Frog Lullaby
+Power: 3
+Element: N/A
+Strength: 2?
+Speed: 30
+
+Resistances
+
+Fire: 0
+Water: 7
+Wind: 7
+Earth: 9
+
+
+[Nyalmot]
+
+Stats
+
+HP: 225
+Str: 105
+Vit: 60
+Wit: 65
+Agi: 23
+
+Unknown: 2500
+
+Exp: 53
+GP: 100
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Nyalmot Throw
+Power: 40
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 13
+Water: 8
+Wind: 8
+Earth: 8
+
+
+[Mad Frog]
+
+Stats
+
+HP: 163
+Str: 85
+Vit: 52
+Wit: 70
+Agi: 60
+
+Unknown: 1000
+
+Exp: 62
+GP: 31
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Poke Attack
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Spin Attack
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 0
+Water: 7
+Wind: 7
+Earth: 9
+
+
+[Manta Ray]
+
+Stats
+
+HP: 276
+Str: 70
+Vit: 20
+Wit: 95
+Agi: 35
+
+Unknown: 1000
+
+Exp: 60
+GP: 29
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Bombs Away
+Power: 17
+Element: Fire
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 12
+Water: 0
+Wind: 0
+Earth: 12
+
+
+[Hermit Crab]
+
+Stats
+
+HP: 94
+Str: 81
+Vit: 100
+Wit: 30
+Agi: 24
+
+Unknown: 900
+
+Exp: 56
+GP: 120
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Lean Over
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 14
+Water: 14
+Wind: 14
+Earth: 4
+
+
+[Massacre Machine](1st Fight)(Boss)
+
+Stats
+
+HP: 1800
+Str: 100
+Vit: 65
+Wit: 75
+Agi: 24
+
+Unknown: 1900
+
+Exp: 500
+GP: 1000
+
+# of Attacks: 1
+Range: 8
+
+Skills
+
+Spin Cut
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Hurricane Mixer
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Eye](Massacre Machine)(Boss)
+
+Stats
+
+HP: 1800
+Str: 82
+Vit: 45
+Wit: 45
+Agi: 24
+
+Unknown: 1000
+
+Exp: 500
+GP: 1000
+
+# of Attacks: 1
+Range: 8
+
+Skills
+
+Spin Cut
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Massacre Machine](2nd Fight)(Boss)
+
+Stats
+
+HP: 2000
+Str: 100
+Vit: 65
+Wit: 75
+Agi: 24
+
+Unknown: 1000
+
+Exp: 600
+GP: 1000
+
+# of Attacks: 1
+Range: 8
+
+Skills
+
+Full-Moon Cut
+Power: 135
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Body Slam
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Eye](Massacre Machine)(2nd Fight)(Boss)
+
+Stats
+
+HP: 2000
+Str: 85
+Vit: 65
+Wit: 45
+Agi: 24
+
+Unknown: 1000
+
+Exp: 600
+GP: 1000
+
+# of Attacks: 1
+Range: 8
+
+Skills
+
+Full-Moon Cut
+Power: 135
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Gadwin](2nd Fight)(Boss)
+
+Stats
+
+HP: 1525
+Str: 75
+Vit: 75
+Wit: 30
+Agi: 15
+
+Unknown: 1500
+
+Exp: 4000
+GP: 0
+
+# of Attacks: 2
+Range: 6
+
+Skills
+
+Eruption Cut
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Flying Dragon Cut
+Power: 40
+Element: Earth
+Strength: No
+Speed: 30
+
+Dragon Cut
+Power: 50
+Element: Earth
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 10
+Water: 10
+Wind: 10
+Earth: 10
+
+
+[Toad King]
+
+Stats
+
+HP: 236
+Str: 87
+Vit: 68
+Wit: 40
+Agi: 100
+
+Unknown: 1300
+
+Exp: 53
+GP: 57
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Plague Lick
+Power: 85
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Skiparound
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 7
+Wind: 7
+Earth: 5
+
+
+[Hippocamp]
+
+Stats
+
+HP: 141
+Str: 84
+Vit: 67
+Wit: 85
+Agi: 25
+
+Unknown: 1250
+
+Exp: 59
+GP: 100
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Runaround
+Power: 128
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 10
+Wind: 10
+Earth: 5
+
+
+[Grinwhale](Boss)
+
+Stats
+
+HP: 1985
+Str: 80
+Vit: 65
+Wit: 60
+Agi: 13
+
+Unknown: 5000
+
+Exp: 2400
+GP: 2800
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Electric Shock
+Power: 40
+Element: Lightning
+Strength: No
+Speed: 30
+
+Body Blow
+Power: 30
+Element: Earth
+Strength: No
+Speed: 15
+
+Spew
+Power: 120
+Element: Wind
+Strength: Yes
+Speed: 45
+
+Resistances
+
+Fire: 5
+Water: 14
+Wind: 7
+Earth: 7
+
+
+[Lure](Grinwhale)
+
+Stats
+
+HP: 1733
+Str: 90
+Vit: 50
+Wit: 85
+Agi: 12
+
+Unknown: 5000
+
+Exp: 2000
+GP: 3200
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Entice
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 14
+Wind: 7
+Earth: 7
+
+
+[Sweet Moth]
+
+Stats
+
+HP: 160
+Str: 90
+Vit: 40
+Wit: 150
+Agi: 24
+
+Unknown: 900
+
+Exp: 60
+GP: 51
+
+# of Attacks: 1
+Range: 1
+
+Skills
+
+Sonar Flutter
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 4
+Water: 4
+Wind: 4
+Earth: 11
+
+
+[Land Slug]
+
+Stats
+
+HP: 220
+Str: 93
+Vit: 75
+Wit: 55
+Agi: 15
+
+Unknown: 1500
+
+Exp: 65
+GP: 41
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Curl Gas
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 5
+
+
+[Trent](Boss)
+
+Stats
+
+HP: 2249
+Str: 100
+Vit: 58
+Wit: 82
+Agi: 20
+
+Unknown: 1800
+
+Exp: 2000
+GP: 2900
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Sleep Gas
+Power: 1
+Element: Water
+Strength: 2?
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 14
+Wind: 5
+Earth: 14
+
+
+[Flower](Trent)
+
+Stats
+
+HP: 1385
+Str: 78
+Vit: 45
+Wit: 95
+Agi: 70
+
+Unknown: 1000
+
+Exp: 1000
+GP: 1800
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Flower Beam
+Power: 57
+Element: Forest
+Strength: No
+Speed: 30
+
+Resistances
+
+Fire: 3
+Water: 14
+Wind: 4
+Earth: 14
+
+
+[Arm](Trent)
+
+Stats
+
+HP: 1366
+Str: 110
+Vit: 59
+Wit: 65
+Agi: 8
+
+Unknown: 1900
+
+Exp: 1000
+GP: 1800
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+None
+
+Resistances
+
+Fire: 4
+Water: 14
+Wind: 4
+Earth: 14
+
+
+[Huge Pupa]
+
+Stats
+
+HP: 300
+Str: 88
+Vit: 75
+Wit: 65
+Agi: 16
+
+Unknown: 1200
+
+Exp: 60
+GP: 59
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Dizzy Gas
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 7
+Water: 7
+Wind: 7
+Earth: 7
+
+
+[Chameleon]
+
+Stats
+
+HP: 210
+Str: 90
+Vit: 100
+Wit: 100
+Agi: 100
+
+Unknown: 1800
+
+Exp: 60
+GP: 600
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Tail Attack
+Power: 140
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 12
+Water: 12
+Wind: 12
+Earth: 12
+
+
+[Alligator]
+
+Stats
+
+HP: 245
+Str: 118
+Vit: 280
+Wit: 107
+Agi: 98
+
+Unknown: 2000
+
+Exp: 300
+GP: 60
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Para Tail
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 5
+Water: 5
+Wind: 5
+Earth: 5
+
+
+[Milda](Boss)
+
+Stats
+
+HP: 2800
+Str: 130
+Vit: 70
+Wit: 110
+Agi: 40
+
+Unknown: 4800
+
+Exp: 2300
+GP: 0
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Drop Kick
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Milda Hit
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 9
+Water: 9
+Wind: 9
+Earth: 9
+
+
+[Elite Officer]
+
+Stats
+
+HP: 200
+Str: 90
+Vit: 45
+Wit: 80
+Agi: 30
+
+Unknown: 1500
+
+Exp: 80
+GP: 81
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Heavy Blow
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Burst Shot
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Wave Rip
+Power: 150
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Resistances
+
+Fire: 9
+Water: 9
+Wind: 9
+Earth: 9
+
+
+[Gaia Battler](Boss)
+
+Stats
+
+HP: 2473
+Str: 110
+Vit: 150
+Wit: 110
+Agi: 20
+
+Unknown: 5000
+
+Exp: 3100
+GP: 3900
+
+# of Attacks: 1
+Range: 5
+
+
+[Right Hand](Gaia Battler)
+
+Stats
+
+HP: 1708
+Str: 110
+Vit: 400
+Wit: 130
+Agi: 10
+
+Unknown: 5000
+
+Exp: 1300
+GP: 1950
+
+# of Attacks: 1
+Range: 5
+
+
+[Left Hand](Gaia Battler)
+
+Stats
+
+HP: 1972
+Str: 136
+Vit: 50
+Wit: 90
+Agi: 10
+
+Unknown: 5000
+
+Exp: 1300
+GP: 1950
+
+# of Attacks: 1
+Range: 5
+
+
+[Cactus Man]
+
+Stats
+
+HP: 297
+Str: 105
+Vit: 45
+Wit: 100
+Agi: 25
+
+Unknown: 2000
+
+Exp: 70
+GP: 87
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Fire Time
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Shoot Quill
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Zil Scorpion]
+
+Stats
+
+HP: 248
+Str: 106
+Vit: 55
+Wit: 90
+Agi: 20
+
+Unknown: 1200
+
+Exp: 58
+GP: 30
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Poison Quills
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Sand Worm]
+
+Stats
+
+HP: 195
+Str: 116
+Vit: 60
+Wit: 75
+Agi: 20
+
+Unknown: 2500
+
+Exp: 60
+GP: 52
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Crush
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Scissorlock]
+
+Stats
+
+HP: 289
+Str: 116
+Vit: 68
+Wit: 63
+Agi: 23
+
+Unknown: 1500
+
+Exp: 65
+GP: 76
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Quick Quills
+Power: 65534
+Element: N/A
+Strength: 3?
+Speed: 30
+
+Crushing Bite
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Zombie]
+
+Stats
+
+HP: 600
+Str: 150
+Vit: 0
+Wit: 30
+Agi: 10
+
+Unknown: 2000
+
+Exp: 34
+GP: 37
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Deadly Stink
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Salamadile]
+
+Stats
+
+HP: 312
+Str: 123
+Vit: 999
+Wit: 200
+Agi: 19
+
+Unknown: 2500
+
+Exp: 30
+GP: 200
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Para Tail
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Run Amok
+Power: 135
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Pink Mage]
+
+Stats
+
+HP: 100
+Str: 115
+Vit: 256
+Wit: 130
+Agi: 20
+
+Unknown: 1000
+
+Exp: 36
+GP: 24
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Slip Away
+Power: 25
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Pteranobone]
+
+Stats
+
+HP: 555
+Str: 145
+Vit: 200
+Wit: 100
+Agi: 60
+
+Unknown: 2000
+
+Exp: 40
+GP: 31
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Aim Cut
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Giant Moth]
+
+Stats
+
+HP: 235
+Str: 123
+Vit: 50
+Wit: 300
+Agi: 25
+
+Unknown: 1260
+
+Exp: 34
+GP: 36
+
+# of Attacks: 1
+Range: 1
+
+Skills
+
+Sonar
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Rust Scales
+Power: 65532
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Lord's Ghost](Boss)
+
+Stats
+
+HP: 4500
+Str: 120
+Vit: 61
+Wit: 100
+Agi: 7
+
+Unknown: 1800
+
+Exp: 2475
+GP: 6000
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+X-Ray
+Power: 67
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Wand](Lord's Ghost)
+
+Stats
+
+HP: 3000
+Str: 120
+Vit: 78
+Wit: 70
+Agi: 7
+
+Unknown: 1800
+
+Exp: 2475
+GP: 6000
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+None
+
+
+[Sand Man]
+
+Stats
+
+HP: 268
+Str: 120
+Vit: 85
+Wit: 105
+Agi: 23
+
+Unknown: 2100
+
+Exp: 13
+GP: 30
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Sandstorm
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Will-O'-Wisp]
+
+Stats
+
+HP: 145
+Str: 110
+Vit: 120
+Wit: 100
+Agi: 23
+
+Unknown: 1800
+
+Exp: 25
+GP: 21
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Fire Hand
+Power: 26
+Element: Fire
+Strength: No
+Speed: 30
+
+Divide
+Power: 0
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Cerberus]
+
+Stats
+
+HP: 244
+Str: 115
+Vit: 59
+Wit: 150
+Agi: 55
+
+Unknown: 2000
+
+Exp: 18
+GP: 10
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Dark Breath
+Power: 38
+Element: Fire
+Strength: No
+Speed: 30
+
+
+[Wolfman]
+
+Stats
+
+HP: 256
+Str: 113
+Vit: 45
+Wit: 103
+Agi: 20
+
+Unknown: 1800
+
+Exp: 23
+GP: 11
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Fire Breath
+Power: 36
+Element: Fire
+Strength: No
+Speed: 30
+
+
+[Spacetime Armor]
+
+Stats
+
+HP: 321
+Str: 125
+Vit: 75
+Wit: 100
+Agi: 80
+
+Unknown: 2600
+
+Exp: 23
+GP: 23
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Spin Cut
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Iron Giant]
+
+Stats
+
+HP: 700
+Str: 130
+Vit: 100
+Wit: 30
+Agi: 20
+
+Unknown: 2500
+
+Exp: 25
+GP: 50
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Bomb Throw
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Kung Fu Master](Boss)
+
+Stats
+
+HP: 4744
+Str: 165
+Vit: 100
+Wit: 195
+Agi: 45
+
+Unknown: 2350
+
+Exp: 9800
+GP: 0
+
+# of Attacks: 3
+Range: 3
+
+Skills
+
+Spin Kick
+Power: 60
+Element: N/A
+Strength: No
+Speed: 30
+
+Tornado
+Power: 72
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Flap Bird]
+
+Stats
+
+HP: 255
+Str: 120
+Vit: 45
+Wit: 105
+Agi: 24
+
+Unknown: 1000
+
+Exp: 70
+GP: 78
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Back Kick
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Skills
+
+Egg Smash
+Power: 105
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Dizzy Moth]
+
+Stats
+
+HP: 180
+Str: 100
+Vit: 35
+Wit: 110
+Agi: 24
+
+Unknown: 1000
+
+Exp: 56
+GP: 58
+
+# of Attacks: 1
+Range: 1
+
+Skills
+
+Poison Scales
+Power: 140
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Snow Boar]
+
+Stats
+
+HP: 246
+Str: 130
+Vit: 100
+Wit: 85
+Agi: 23
+
+Unknown: 1200
+
+Exp: 80
+GP: 78
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+All Together!
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Paralyze Fluid
+Power: 5
+Element: N/A
+Strength: 3?
+Speed: 30
+
+
+[Mountain Ape]
+
+Stats
+
+HP: 330
+Str: 120
+Vit: 60
+Wit: 87
+Agi: 20
+
+Unknown: 2000
+
+Exp: 100
+GP: 200
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Snowball Throw
+Power: 45
+Element: Ice
+Strength: No
+Speed: 30
+
+Earthrend
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Gaia Battler](2nd Fight)(Boss)
+
+Stats
+
+HP: 3567
+Str: 135
+Vit: 120
+Wit: 145
+Agi: 20
+
+Unknown: 9999
+
+Exp: 3300
+GP: 4000
+
+# of Attacks: 1
+Range: 5
+
+
+[Right Hand](Gaia Battler 2nd Fight)
+
+Stats
+
+HP: 2528
+Str: 126
+Vit: 100
+Wit: 165
+Agi: 10
+
+Unknown: 5000
+
+Exp: 1500
+GP: 2300
+
+# of Attacks: 1
+Range: 5
+
+
+[Left Hand](Gaia Battler 2nd Fight)
+
+Stats
+
+HP: 2573
+Str: 146
+Vit: 600
+Wit: 115
+Agi: 10
+
+Unknown: 5000
+
+Exp: 1500
+GP: 2300
+
+# of Attacks: 1
+Range: 5
+
+
+[Bird Skull]
+
+Stats
+
+HP: 350
+Str: 130
+Vit: 75
+Wit: 80
+Agi: 18
+
+Unknown: 2500
+
+Exp: 82
+GP: 85
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Aim Cut
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Doze Cut
+Power: 90
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Lich]
+
+Stats
+
+HP: 372
+Str: 120
+Vit: 0
+Wit: 90
+Agi: 18
+
+Unknown: 1500
+
+Exp: 73
+GP: 100
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Paralyze Gas
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Skills
+
+Oxy Gas
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Warp Man]
+
+Stats
+
+HP: 345
+Str: 135
+Vit: 120
+Wit: 85
+Agi: 17
+
+Unknown: 2000
+
+Exp: 98
+GP: 115
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Spin Cut
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Ruin Guard](Boss)
+
+Stats
+
+HP: 4500
+Str: 110
+Vit: 70
+Wit: 130
+Agi: 25
+
+Unknown: 2400
+
+Exp: 3950
+GP: 5160
+
+# of Attacks: 1
+Range: 5
+
+
+[Ax](Ruin Guard)
+
+Stats
+
+HP: 2350
+Str: 165
+Vit: 150
+Wit: 135
+Agi: 10
+
+Unknown: 1600
+
+Exp: 2000
+GP: 0
+
+# of Attacks: 1
+Range: 5
+
+
+[Boomerang](Ruin Guard)
+
+Stats
+
+HP: 2350
+Str: 140
+Vit: 80
+Wit: 400
+Agi: 10
+
+Unknown: 9999
+
+Exp: 2000
+GP: 0
+
+# of Attacks: 1
+Range: 50
+
+
+[Magic Head]
+
+Stats
+
+HP: 235
+Str: 120
+Vit: 45
+Wit: 118
+Agi: 100
+
+Unknown: 1000
+
+Exp: 80
+GP: 200
+
+# of Attacks: 2
+Range: 2
+
+Skills
+
+None
+
+
+[Sphytaros]
+
+Stats
+
+HP: 421
+Str: 120
+Vit: 85
+Wit: 100
+Agi: 21
+
+Unknown: 1500
+
+Exp: 100
+GP: 125
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Electric Shock
+Power: 33
+Element: Lightning
+Strength: No
+Speed: 30
+
+
+[Combatant]
+
+Stats
+
+HP: 344
+Str: 125
+Vit: 78
+Wit: 105
+Agi: 25
+
+Unknown: 2200
+
+Exp: 98
+GP: 125
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Heavy Blow
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Sword Dance
+Power: 60
+Element: N/A
+Strength: No
+Speed: 30
+
+Shocksword
+Power: 30
+Element: Earth
+Strength: No
+Speed: 30
+
+
+[Saki](2nd Fight)(Boss)
+
+Stats
+
+HP: 5000
+Str: 140
+Vit: 70
+Wit: 120
+Agi: 80
+
+Unknown: 1500
+
+Exp: 3200
+GP: 3440
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Max Lariat
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Slapstick Home Run
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Trinity Attack
+Power: 60
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Mio](2nd Fight)(Boss)
+
+Stats
+
+HP: 3000
+Str: 130
+Vit: 70
+Wit: 80
+Agi: 30
+
+Unknown: 1500
+
+Exp: 3200
+GP: 3440
+
+# of Attacks: 2
+Range: 3
+
+Skills
+
+Super Balloon
+Power: 2
+Element: N/A
+Strength: 2?
+Speed: 30
+
+Kill Stun Gun
+Power: 35
+Element: Lightning
+Strength: No
+Speed: 30
+
+Trinity Attack
+Power: 60
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Nana](2nd Fight)(Boss)
+
+Stats
+
+HP: 4000
+Str: 150
+Vit: 70
+Wit: 90
+Agi: 60
+
+Unknown: 1500
+
+Exp: 3200
+GP: 3440
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Electric Yo-Yo
+Power: 20
+Element: Lightning
+Strength: No
+Speed: 30
+
+Spinning Yo-Yo
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Trinity Attack
+Power: 60
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Baal](1st Fight)(Boss)
+
+Stats
+
+HP: 2783
+Str: 162
+Vit: 58 
+Wit: 116
+Agi: 24
+
+Unknown: 2700
+
+Exp: 4500
+GP: 3000
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+None
+
+
+[Gill Newt]
+
+Stats
+
+HP: 316
+Str: 121
+Vit: 68
+Wit: 170
+Agi: 25
+
+Unknown: 2000
+
+Exp: 91
+GP: 107
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Stun Mist
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Spew Slime
+Power: 65533
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Thud Bird]
+
+Stats
+
+HP: 800
+Str: 132
+Vit: 47
+Wit: 112
+Agi: 25
+
+Unknown: 2500
+
+Exp: 100
+GP: 120
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Chain Kick
+Power: 110
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Egg Smash
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Crimsona]
+
+Stats
+
+HP: 288
+Str: 133
+Vit: 300
+Wit: 118
+Agi: 20
+
+Unknown: 1800
+
+Exp: 108
+GP: 110
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Head Dance
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Hydra](Boss)
+
+Stats
+
+HP: 3721
+Str: 175
+Vit: 85
+Wit: 60
+Agi: 13
+
+Unknown: 1000
+
+Exp: 1000
+GP: 7500
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Head Crash
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Pearl Head](Hydra)(PERIL HEAD)
+
+Stats
+
+HP: 2848
+Str: 400
+Vit: 80
+Wit: 2
+Agi: 13
+
+Unknown: 1000
+
+Exp: 1000
+GP: 0
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Sudden Death
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 74
+
+
+[Hot Head](Hydra)
+
+Stats
+
+HP: 2292
+Str: 70
+Vit: 30
+Wit: 99
+Agi: 13
+
+Unknown: 1000
+
+Exp: 1000
+GP: 0
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Hot Gas
+Power: 35
+Element: Fire
+Strength: No
+Speed: 30
+
+
+[Nice Head](Hydra)
+
+Stats
+
+HP: 1742
+Str: 70
+Vit: 30
+Wit: 116
+Agi: 13
+
+Unknown: 1000
+
+Exp: 1000
+GP: 0
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Recover Gas
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Awful Head](Hydra)
+
+Stats
+
+HP: 2462
+Str: 110
+Vit: 30
+Wit: 95
+Agi: 13
+
+Unknown: 1000
+
+Exp: 1000
+GP: 0
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Poison Gas
+Power: 2
+Element: N/A
+Strength: 4?
+Speed: 30
+
+
+[Great Susano-o](Boss)
+
+Stats
+
+HP: 3453
+Str: 140
+Vit: 71
+Wit: 70
+Agi: 10
+
+Unknown: 1000
+
+Exp: 1000
+GP: 0
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+None
+
+
+[Ax](Great Susano-o)
+
+Stats
+
+HP: 2306
+Str: 140
+Vit: 55
+Wit: 90
+Agi: 10
+
+Unknown: 1700
+
+Exp: 1000
+GP: 10000
+
+# of Attacks: 1
+Range: 5
+
+
+[Iron Ball](Great Susano-o)
+
+Stats
+
+HP: 1600
+Str: 140
+Vit: 70
+Wit: 200
+Agi: 10
+
+Unknown: 1000
+
+Exp: 1000
+GP: 0
+
+# of Attacks: 1
+Range: 5
+
+
+[Phantom Dragon](Boss)
+
+Stats
+
+HP: 3976
+Str: 135
+Vit: 60
+Wit: 110
+Agi: 13
+
+Unknown: 5000
+
+Exp: 1000
+GP: 1500
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Fire Breath
+Power: 50
+Element: Fire
+Strength: No
+Speed: 30
+
+
+[Sand Snake]
+
+Stats
+
+HP: 388
+Str: 132
+Vit: 65
+Wit: 116
+Agi: 24
+
+Unknown: 2000
+
+Exp: 103
+GP: 97
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Sandwave
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Yeti]
+
+Stats
+
+HP: 400
+Str: 145
+Vit: 63
+Wit: 101
+Agi: 23
+
+Unknown: 2200
+
+Exp: 110
+GP: 130
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Earthquake
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[King Horn]
+
+Stats
+
+HP: 309
+Str: 136
+Vit: 85
+Wit: 126
+Agi: 20
+
+Unknown: 2000
+
+Exp: 100
+GP: 102
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+All Together!
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Plague Fluid
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Dragon Knight]
+
+Stats
+
+HP: 558
+Str: 165
+Vit: 156
+Wit: 145
+Agi: 45
+
+Unknown: 2480
+
+Exp: 41
+GP: 95
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Paralyze Spear
+Power: 45
+Element: Lightning
+Strength: No
+Speed: 30
+
+Poison Spear
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Jackal]
+
+Stats
+
+HP: 498
+Str: 145
+Vit: 125
+Wit: 138
+Agi: 33
+
+Unknown: 2500
+
+Exp: 34
+GP: 68
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Poison Bite
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Skills
+
+Fire Breath
+Power: 30
+Element: Fire
+Strength: No
+Speed: 30
+
+
+[Brain Bat]
+
+Stats
+
+HP: 294
+Str: 98
+Vit: 100
+Wit: 130
+Agi: 35
+
+Unknown: 1200
+
+Exp: 30
+GP: 70
+
+# of Attacks: 2
+Range: 1
+
+Skills
+
+Body Blow
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Layelah]
+
+Stats
+
+HP: 385
+Str: 100
+Vit: 170
+Wit: 126
+Agi: 19
+
+Unknown: 1200
+
+Exp: 41
+GP: 60
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Deadly Temptation
+Power: 33
+Element: Lightning
+Strength: Yes
+Speed: 30
+
+
+[Toad Demon]
+
+Stats
+
+HP: 428
+Str: 115
+Vit: 175
+Wit: 120
+Agi: 23
+
+Unknown: 1300
+
+Exp: 39
+GP: 77
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Demon Kick
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Ghost]
+
+Stats
+
+HP: 465
+Str: 126
+Vit: 999
+Wit: 65
+Agi: 16
+
+Unknown: 1260
+
+Exp: 36
+GP: 83
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Divide
+Power: 0
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Ectoplasm
+Power: 125
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Gaia Brain]
+
+Stats
+
+HP: 327
+Str: 141
+Vit: 50
+Wit: 157
+Agi: 25
+
+Unknown: 600
+
+Exp: 276
+GP: 297
+
+# of Attacks: 2
+Range: 1
+
+Skills
+
+Psychokinesis
+Power: 65533
+Element: N/A
+Strength: 3?
+Speed: 30
+
+
+[Satan]
+
+Stats
+
+HP: 589
+Str: 135
+Vit: 195
+Wit: 135
+Agi: 23
+
+Unknown: 1500
+
+Exp: 54
+GP: 102
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Flap Twister
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Naga Queen]
+
+Stats
+
+HP: 642
+Str: 152
+Vit: 189
+Wit: 124
+Agi: 22
+
+Unknown: 1800
+
+Exp: 67
+GP: 118
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Life Drain
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Mana Drain
+Power: 20
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Gargoyle](Boss)(Shell)
+
+Stats
+
+HP: 5739
+Str: 160
+Vit: 180
+Wit: 175
+Agi: 10
+
+Unknown: 1250
+
+Exp: 3250
+GP: 0
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Suck In
+Power: 2
+Element: Wind
+Strength: 5?
+Speed: 30
+
+Rush Attack
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Gargoyle](Boss)(Head)
+
+Stats
+
+HP: 5739
+Str: 170
+Vit: 108
+Wit: 160
+Agi: 10
+
+Unknown: 
+
+Exp: 
+GP: 
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Suck In
+Power: 2
+Element: Wind
+Strength: 5?
+Speed: 30
+
+Beat Attack
+Power: 45
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Slug Fish](Boss)
+
+Stats
+
+HP: 3459
+Str: 148
+Vit: 135
+Wit: 168
+Agi: 10
+
+Unknown: 1250
+
+Exp: 4000
+GP: 6400
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Electric Shock
+Power: 60
+Element: Lightning
+Strength: No
+Speed: 30
+
+Body Blow
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Spew
+Power: 80
+Element: Wind
+Strength: No
+Speed: 30
+
+
+[Lure](Slug Fish)
+
+Stats
+
+HP: 2869
+Str: 152
+Vit: 125
+Wit: 175
+Agi: 10
+
+Unknown: 1250
+
+Exp: 4000
+GP: 0
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Entice
+Power: 140
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Leviathan](Boss)
+
+Stats
+
+HP: 7869
+Str: 140
+Vit: 47
+Wit: 170
+Agi: 10
+
+Unknown: 1250
+
+Exp: 4500
+GP: 0
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+Suck In
+Power: 2
+Element: Wind
+Strength: 5?
+Speed: 30
+
+Goaround
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Twin Typhoon
+Power: 65
+Element: Wind
+Strength: No
+Speed: 30
+
+Shockwave
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Laser Eye
+Power: 78
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Left Tentacle](Leviathan)
+
+Stats
+
+HP: 3877
+Str: 156
+Vit: 125
+Wit: 161
+Agi: 10
+
+Unknown: 1250
+
+Exp: 4500
+GP: 6450
+
+# of Attacks: 1
+Range: 10
+
+
+[Right Tentacle](Leviathan)
+
+Stats
+
+HP: 4037
+Str: 144
+Vit: 88
+Wit: 175
+Agi: 10
+
+Unknown: 1250
+
+Exp: 4500
+GP: 6450
+
+# of Attacks: 1
+Range: 10
+
+
+[Stuttle]
+
+Stats
+
+HP: 336
+Str: 133
+Vit: 85
+Wit: 108
+Agi: 100
+
+Unknown: 1800
+
+Exp: 125
+GP: 240
+
+# of Attacks: 1
+Range: 4
+
+Skills
+
+Dizzy Tentacle
+Power: 2
+Element: N/A
+Strength: No
+Speed: 30
+
+
+[Hyena Man]
+
+Stats
+
+HP: 425
+Str: 144
+Vit: 60
+Wit: 150
+Agi: 20
+
+Unknown: 2500
+
+Exp: 117
+GP: 270
+
+# of Attacks: 1
+Range: 3
+
+Skills
+
+Bite
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+All Together!
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Scarab]
+
+Stats
+
+HP: 228
+Str: 138
+Vit: 250
+Wit: 99
+Agi: 23
+
+Unknown: 1500
+
+Exp: 120
+GP: 500
+
+# of Attacks: 1
+Range: 2
+
+Skills
+
+Earth Attack
+Power: 115
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Baal](2nd Fight)(Boss)
+
+Stats
+
+HP: 6000
+Str: 175
+Vit: 120
+Wit: 230
+Agi: 45
+
+Unknown: 3000
+
+Exp: 5800
+GP: 5000
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Gaia Power
+Power: 350
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Vanish
+Power: 7
+Element: N/A
+Strength: 6?
+Speed: 30
+
+
+[Gaia Tentacle](Baal)
+
+Stats
+
+HP: 7000
+Str: 150
+Vit: 70
+Wit: 175
+Agi: 40
+
+Unknown: 3000
+
+Exp: 5800
+GP: 5000
+
+# of Attacks: 1
+Range: 10
+
+Skills
+
+Gaia Strike
+Power: 130
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Gaia Fang
+Power: 70
+Element: N/A
+Strength: No
+Speed: 30
+
+Hoist Heel
+Power: 350
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Gaia Horn]
+
+Stats
+
+HP: 378
+Str: 160
+Vit: 76
+Wit: 155
+Agi: 50
+
+Unknown: 1800
+
+Exp: 212
+GP: 213
+
+# of Attacks: 1
+Range: 5
+
+Skills
+
+All Together!
+Power: 100
+Element: N/A
+Strength: Yes
+Speed: 30
+
+Plague Fluid
+Power: 120
+Element: N/A
+Strength: Yes
+Speed: 30
+
+
+[Gaia Battler](3rd Fight)(Boss)
+
+Stats
+
+HP: 4976
+Str: 160
+Vit: 120
+Wit: 140
+Agi: 30
+
+Unknown: 5000
+
+Exp: 3300
+GP: 6000
+
+# of Attacks: 1
+Range: 5
+
+
+[Right Hand](Gaia Battler)
+
+Stats
+
+HP: 2742
+Str: 145
+Vit: 600
+Wit: 155
+Agi: 30
+
+Unknown: 5000
+
+Exp: 1500
+GP: 3450
+
+# of Attacks: 1
+Range: 5
+
+
+[Left Hand](Gaia Battler)
+
+Stats
+
+HP: 3109
+Str: 160
+Vit: 80
+Wit: 125
+Agi: 30
+
+Unknown: 5000
+
+Exp: 1500
+GP: 3450
+
+# of Attacks: 1
+Range: 5
+
+
+[Gaia Snake]
+
+Stats
+
+HP: 311
+Str: 160
+Vit: 45
+Wit: 130
+Agi: 50
+
+Unknown: 2200
+
+Exp: 182
+GP: 177
+
+# of Attacks: 0?
+Range: 1
+
+
+[Gaia Ape]
+
+Stats
+
+HP: 431
+Str: 180
+Vit: 65
+Wit: 145
+Agi: 52
+
+Unknown: 2500
+
+Exp: 228
+GP: 233
+
+# of Attacks: 1
+Range: 5
+
+
+[Critter]
+
+Stats
+
+HP: 325
+Str: 160
+Vit: 145
+Wit: 115
+Agi: 21
+
+Unknown: 1800
+
+Exp: 231
+GP: 157
+
+# of Attacks: 1
+Range: 3
+
+
+[Guardian]
+
+Stats
+
+HP: 550
+Str: 165
+Vit: 90
+Wit: 118
+Agi: 26
+
+Unknown: 1600
+
+Exp: 179
+GP: 245
+
+# of Attacks: 1
+Range: 3
+
+
+[Stingray]
+
+Stats
+
+HP: 392
+Str: 160
+Vit: 60
+Wit: 125
+Agi: 25
+
+Unknown: 1550
+
+Exp: 182
+GP: 182
+
+# of Attacks: 1
+Range: 2
+
+
+[Mage King](Boss)
+
+Stats
+
+HP: 3892
+Str: 146
+Vit: 100
+Wit: 128
+Agi: 27
+
+Unknown: 5000
+
+Exp: 1135
+GP: 3200
+
+# of Attacks: 1
+Range: 10
+
+
+[Wand](Mage King)
+
+Stats
+
+HP: 2346
+Str: 141
+Vit: 62
+Wit: 60
+Agi: 25
+
+Unknown: 5000
+
+Exp: 1135
+GP: 3200
+
+# of Attacks: 1
+Range: 10
+
+
+[Skeleton]
+
+Stats
+
+HP: 391
+Str: 165
+Vit: 80
+Wit: 128
+Agi: 23
+
+Unknown: 2250
+
+Exp: 163
+GP: 218
+
+# of Attacks: 1
+Range: 3
+
+
+[Dragonoid]
+
+Stats
+
+HP: 700
+Str: 170
+Vit: 80
+Wit: 100
+Agi: 120
+
+Unknown: 1800
+
+Exp: 223
+GP: 256
+
+# of Attacks: 1
+Range: 3
+
+
+[Coelacanth]
+
+Stats
+
+HP: 371
+Str: 138
+Vit: 100
+Wit: 180
+Agi: 29
+
+Unknown: 1200
+
+Exp: 198
+GP: 238
+
+# of Attacks: 1
+Range: 3
+
+
+[Lilith]
+
+Stats
+
+HP: 320
+Str: 136
+Vit: 60
+Wit: 250
+Agi: 20
+
+Unknown: 1200
+
+Exp: 158
+GP: 176
+
+# of Attacks: 1
+Range: 3
+
+
+[Gaia Battler](4th Fight)(Boss)
+
+Stats
+
+HP: 5871
+Str: 160
+Vit: 40
+Wit: 125
+Agi: 27
+
+Unknown: 5000
+
+Exp: 3300
+GP: 6000
+
+# of Attacks: 2
+Range: 3
+
+
+[Right Hand](Gaia Battler)
+
+Stats
+
+HP: 4237
+Str: 171
+Vit: 800
+Wit: 140
+Agi: 27
+
+Unknown: 1500
+
+Exp: 1500
+GP: 3450
+
+# of Attacks: 1
+Range: 5
+
+
+[Left Hand](Gaia Battler)
+
+Stats
+
+HP: 4291
+Str: 171
+Vit: 20
+Wit: 120
+Agi: 27
+
+Unknown: 8000
+
+Exp: 1500
+GP: 3450
+
+# of Attacks: 1
+Range: 5
+
+
+[Mullen](Boss)
+
+Stats
+
+HP: 2946
+Str: 180
+Vit: 112
+Wit: 160
+Agi: 60
+
+Unknown: 800
+
+Exp: 5682
+GP: 0
+
+# of Attacks: 2
+Range: 4
+
+
+[Gaia Man]
+
+Stats
+
+HP: 800
+Str: 160
+Vit: 75
+Wit: 147
+Agi: 26
+
+Unknown: 2500
+
+Exp: 264
+GP: 312
+
+# of Attacks: 1
+Range: 3
+
+
+[Gaia Mold]
+
+Stats
+
+HP: 288
+Str: 150
+Vit: 60
+Wit: 100
+Agi: 27
+
+Unknown: 1800
+
+Exp: 205
+GP: 276
+
+# of Attacks: 1
+Range: 4
+
+
+[Gaia Tree]
+
+Stats
+
+HP: 356
+Str: 166
+Vit: 170
+Wit: 168
+Agi: 18
+
+Unknown: 2800
+
+Exp: 215
+GP: 291
+
+# of Attacks: 1
+Range: 2
+
+
+[Gaia Slime]
+
+Stats
+
+HP: 331
+Str: 170
+Vit: 190
+Wit: 128
+Agi: 18
+
+Unknown: 2000
+
+Exp: 236
+GP: 238
+
+# of Attacks: 1
+Range: 5
+
+
+[Gaia Trent](Boss)
+
+Stats
+
+HP: 4578
+Str: 155
+Vit: 65
+Wit: 154
+Agi: 20
+
+Unknown: 1275
+
+Exp: 2765
+GP: 7200
+
+# of Attacks: 1
+Range: 5
+
+
+[Flower](Gaia Trent)
+
+Stats
+
+HP: 3167
+Str: 150
+Vit: 45
+Wit: 146
+Agi: 20
+
+Unknown: 1800
+
+Exp: 1500
+GP: 3600
+
+# of Attacks: 1
+Range: 10
+
+
+[Arm](Gaia Trent)
+
+Stats
+
+HP: 2963
+Str: 165
+Vit: 55
+Wit: 155
+Agi: 20
+
+Unknown: 2450
+
+Exp: 1500
+GP: 3600
+
+# of Attacks: 2
+Range: 5
+
+
+[Gaia Slug]
+
+Stats
+
+HP: 485
+Str: 173
+Vit: 50
+Wit: 122
+Agi: 17
+
+Unknown: 2400
+
+Exp: 266
+GP: 225
+
+# of Attacks: 1
+Range: 3
+
+
+[Gaia Alien]
+
+Stats
+
+HP: 335
+Str: 157
+Vit: 190
+Wit: 136
+Agi: 25
+
+Unknown: 1200
+
+Exp: 283
+GP: 321
+
+# of Attacks: 1
+Range: 2
+
+
+[Gaia Demon]
+
+Stats
+
+HP: 426
+Str: 170
+Vit: 85
+Wit: 163
+Agi: 57
+
+Unknown: 1250
+
+Exp: 293
+GP: 316
+
+# of Attacks: 1
+Range: 2
+
+
+[Gaia Star]
+
+Stats
+
+HP: 317
+Str: 47
+Vit: 90
+Wit: 147
+Agi: 20
+
+Unknown: 1800
+
+Exp: 235
+GP: 317
+
+# of Attacks: 1
+Range: 5
+
+
+[Gaia Cancer]
+
+Stats
+
+HP: 327
+Str: 150
+Vit: 225
+Wit: 130
+Agi: 19
+
+Unknown: 2000
+
+Exp: 271
+GP: 309
+
+# of Attacks: 1
+Range: 2
+
+
+[Gaia Beetle]
+
+Stats
+
+HP: 308
+Str: 152
+Vit: 100
+Wit: 170
+Agi: 26
+
+Unknown: 1220
+
+Exp: 253
+GP: 249
+
+# of Attacks: 1
+Range: 3
+
+
+[Gaia Armor](Boss)
+
+Stats
+
+HP: 6785
+Str: 192
+Vit: 90
+Wit: 255
+Agi: 23
+
+Unknown: 2250
+
+Exp: 3500
+GP: 7460
+
+# of Attacks: 1
+Range: 8
+
+
+[Gaia Knight]
+
+Stats
+
+HP: 396
+Str: 172
+Vit: 128
+Wit: 149
+Agi: 20
+
+Unknown: 1800
+
+Exp: 285
+GP: 326
+
+# of Attacks: 1
+Range: 2
+
+
+[Gaia Devil]
+
+Stats
+
+HP: 526
+Str: 160
+Vit: 128
+Wit: 132
+Agi: 21
+
+Unknown: 1400
+
+Exp: 310
+GP: 345
+
+# of Attacks: 1
+Range: 3
+
+
+[Gaia Zombie]
+
+Stats
+
+HP: 439
+Str: 166
+Vit: 30
+Wit: 133
+Agi: 20
+
+Unknown: 2300
+
+Exp: 267
+GP: 238
+
+# of Attacks: 1
+Range: 3
+
+
+[Gaia Drago]
+
+Stats
+
+HP: 388
+Str: 176
+Vit: 100
+Wit: 146
+Agi: 30
+
+Unknown: 1780
+
+Exp: 299
+GP: 289
+
+# of Attacks: 1
+Range: 3
+
+
+[Gaia Brain]
+
+Stats
+
+HP: 327
+Str: 141
+Vit: 50
+Wit: 157
+Agi: 25
+
+Unknown: 600
+
+Exp: 276
+GP: 397
+
+# of Attacks: 2
+Range: 1
+
+
+[Baal](3rd Fight)(Boss)
+
+Stats
+
+HP: 7000
+Str: 180
+Vit: 78
+Wit: 125
+Agi: 10
+
+Unknown: 5000
+
+Exp: 0
+GP: 100
+
+# of Attacks: 1
+Range: 10
+
+
+[Left Tentacle](Baal)(Gaia Tentacle?)
+
+Stats
+
+HP: 6000
+Str: 47
+Vit: 25
+Wit: 70
+Agi: 25
+
+Unknown: 1200
+
+Exp: 25
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+
+[Right Tentacle](Baal)
+
+Stats
+
+HP: 81
+Str: 47
+Vit: 25
+Wit: 70
+Agi: 25
+
+Unknown: 1200
+
+Exp: 25
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+
+[Gaia Cyst](Baal)
+
+Stats
+
+HP: 81
+Str: 47
+Vit: 25
+Wit: 70
+Agi: 25
+
+Unknown: 1200
+
+Exp: 25
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+
+[Gaia Core](Boss)
+
+Stats
+
+HP: 81
+Str: 47
+Vit: 25
+Wit: 70
+Agi: 25
+
+Unknown: 1200
+
+Exp: 25
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+
+[Mega Gaia](Gaia Core)
+
+Stats
+
+HP: 81
+Str: 47
+Vit: 25
+Wit: 70
+Agi: 25
+
+Unknown: 1200
+
+Exp: 25
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+
+[Gaia Tentacle](Gaia Core)
+
+Stats
+
+HP: 81
+Str: 47
+Vit: 25
+Wit: 70
+Agi: 25
+
+Unknown: 1200
+
+Exp: 25
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+
+[Evil Gaia](Boss)
+
+Stats
+
+HP: 81
+Str: 47
+Vit: 25
+Wit: 70
+Agi: 25
+
+Unknown: 1200
+
+Exp: 25
+GP: 12
+
+# of Attacks: 2
+Range: 3
+
+

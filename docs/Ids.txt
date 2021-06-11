@@ -1,0 +1,52 @@
+Monster Ids
+
+39 - Gaia Devil
+3C - Baby Bat
+3F - Magic Head
+43 - Rock Bird
+4B - Marna Bug
+4C - Beetlebug
+4E - Zil Scorpion
+57 - Ammonite
+68 - Gaia Scorpion
+69 - Giant Centipede
+6A - InchWorm
+6B - Roadcrawler
+6C - Spitting Cobra
+73 - Alligator
+74 - Salamadile
+75 - Gill Newt
+7D - Gaia Cactus
+7E - Green Slime
+7F - Purple Slime
+84 - Odd Bird
+8A - Ent
+99 - Kraken
+9D - Ganymede
+9F - Mad Turtle
+A0 - Mad Turtle
+A1 - Gaia Bird
+BB - Gaia Trent
+CF - Kung Fu Master
+D0 - Mullen
+D1 - Saki
+D2 - Saki2
+D3 - Mio
+D4 - Mio2
+D5 - Nana
+D6 - Nana2
+D7 - Grinwhale
+DB - Baal
+DC - Baal2
+DD - Gaia Tentacle
+DE - Baal3
+DF - Gaia Tentacle
+E0 - Gaia Tentacle
+E4 - Gaia Battler
+EE - Mega Gaia
+F0 - Gaia Tentacle
+F4 - Gaia Armor
+F6 - Gaia Slime
+F7 - Combatant
+F8 - Gaia Tree
+FA - Leviathan

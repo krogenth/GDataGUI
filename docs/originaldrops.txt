@@ -1,0 +1,85 @@
+ENEMY - Item - Chance of Drop
+
+GREEN SLIME - Herbs - 15%
+AMMONITE - Smarna Weed - 20%
+SPITTING COBRA - Poison Antidote - 10%
+ROADCRAWLER - Poison Antidote - 15%
+INCHWORM - Cholla Flowers - 3%
+ODD BIRD - Bond of Trust - 5%
+ENT - Cholla Flowers - 20%
+DOM ORC - Holy Maces - 10%
+VENGEFUL SPIRIT - Crescent Jade - 10%
+GANYMEDE - Shell Armor - 100%
+MIST GUARD - Panacea - 5%
+TARANTULA - Spell Breaker - 10%
+PIT VIPER - Move Breaker - 10%
+DODO - Smelling Salts - 5%
+PLOP MOLD - Poison Antidote - 10% / Health Weed - 10%
+RED DEVIL - Health Weed - 15%
+SLIPPLE - Health Weed - 12%
+ROCK MAN - Health Weed - 10% / Fire Rod - 5%
+MOLD BIRD - Vaccine - 5%
+KLEPP SOLIDER - Vaccine - 5%
+ELITE KLEPP - Klepp's Sickle - 2%
+KLEPP KNIGHT - Fire Charm - 5%
+KLEPP RIDER - Metal Frog - 10%
+BLUE DEVIL - Titan's Ring - 1%
+GRIPPLE - First Aid Kit - 2%
+MAGMA MAN - Raincloud Staff - 10%
+HOT DOG - Raincloud Staff - 10%
+LOST SOUL - Fire Charm - 5%
+MEDUSA DANCER - Magic Block Charm - 10%
+MANTA RAY - Launch Fireworks - 10%
+TOAD KING - Vaccine - 20% / Panacea - 5%
+SWEET MOTH - Swallowtail Hat - 5%
+LAND SLUG - Poison Antidote - 10%
+CHAMELEON - Chameleon Armor - 2%
+ELITE OFFICER - Ultra Drink - 10% / Miracle Drink - 5%
+CACTUS MAN - Cactus Helm - 5%
+ZOMBIE - Pretty Jewel - 1%
+SALAMADILE - Lightning Charm - 5% / Pretty Jewel - 2%
+PINK MAGE - Resurrect Potion - 4%
+PTERANOBONE - Death Mask - 3%
+GIANT MOTH - Spell Breaker - 10%
+KUNG-FU MASTER - Satisfaction Gem - 100%
+MOUNTAIN APE - Mikeroma Scroll - 15%
+SEA STAR - Move Breaker - 10%
+FIRE HOUND - Miracle Drink - 10%
+BIRD SKULL - Panacea - 10% / Pretty Jewel - 2%
+LICH - Pretty Jewel - 2%
+WARP MAN - Warp Shoes - 3%
+AX - Thunder Arrow - 100%
+BOOMERANG - Pretty Jewel - 100%
+SPHYTAROS - Move Breaker - 5%
+COMBATANT - Rescue Set - 15% / Battle Helm - 5%
+GILL NEWT - Scarab - 5%
+CRIMSONA - Resurrect Potion - 5%
+PERIL HEAD - Crimson Potion - 100%
+HOT HEAD - Resurrect Potion - 100%
+NICE HEAD - Resurrect Potion - 100%
+AWFUL HEAD - Deep Blue Potion - 100%
+GREAT SUSANO-O - Revival Stone - 100%
+AX - Chain of Gems - 100%
+IRON BALL - Emperor's Whip - 100%
+PHANTOM DRAGON - Deep Blue Potion - 100%
+DRAGON KNIGHT - Seed of Defense - 3% / Fruit of Power - 2%
+JACKAL - Seed of Power - 3% / Fruit of Power - 2%
+BRAIN BAT - Seed of Magic - 4% / Fruit of Life - 1%
+LAYELAH - Seed of Magic - 4% / Fruit of Magic - 2%
+TOAD DEMON - Seed of Magic - 4% / Seed of Life - 2%
+GHOST - Seed of Moves - 3% / Fruit of Moves - 1%
+SATAN - Deep Blue Potion - 14% / All-Around Fruit - 1%
+NAGA QUEEN - Seed of Speed - 3% / Fruit of Speed - 2%
+GARGOYLE - Magic Rod - 100% / Spirit Potion - 100%
+SLUG FISH - Golden Potion - 100% / Mysterious Veil - 100%
+LEVIATHAN - Man's Headband - 100% 
+GAIA SCORPION - Pretty Jewel - 5%
+GAIA FLY - Pretty Jewel - 4%
+GAIA BIRD - Resurrect Potion - 3% / Pretty Jewel - 3%
+GAIA SNAKE - Pretty Jewel - 3%
+GAIA APE - Pretty Jewel - 5%
+SKELETON - Blue Medicine - 10%
+LILITH - Resurrect Potion - 10%
+GAIA MAN - Golden Potion - 10%
+GAIA ALIEN - Mana Egg - 5%
+GAIA DRAGO - Deep Blue Potion - 10%

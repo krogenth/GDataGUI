@@ -1,0 +1,342 @@
+::Grandia 1 Data Files::
+
+::PSX::
+
+|-- ROOT
+|	|-- BATLE
+|	|	|-- .BBG	//Old battle background images/Location data
+|	|	|-- .BIN	//Various data files
+|	|	|-- STAT.BIN//Prototype data file for items/moves? Unused
+|	|-- BIN	//Various system files
+|	|-- FIELD
+|	|	|-- .ADD	//Unknown
+|	|	|-- .BIN	//Various game data files
+|	|	|-- .CPD	//Unknown
+|	|	|-- .DAT	//Unknown
+|	|	|-- .IDX	//Index file for audio track offsets
+|	|	|-- .STZ	//Game soundtrack file(use MFAudio(rename file to extension .ooo): RAW Compressed, 22050 Freq, 16 bit, 2 channel, 800 interleave, 0 offset)
+|	|	|-- .VAB	//Does not follow traditional .VAB structure(header should have ASCII string "VABp")
+|	|	|-- .MDP	//Map data files(3D modeling, texture placement, etc.)
+|	|-- .BIN
+
+BATLE/b001-123
+	spell/skill/item battle data
+	OFFSET  $171A0 for enemies
+	
+
+
+BIN/MCHAR.BIN(starts at $8)(96 byte entries)
+	JUSTIN
+	FEENA
+	SUE
+	GADWIN
+	RAPP
+	MILDA
+	GUIDO
+	LIETE
+
+	Character starts
+		04 byte EXP
+		02 byte NEXT EXP
+		01 byte LEVEL
+		01 byte # of Crit/Combo
+		02 byte HP
+		02 byte STR
+		02 byte VIT
+		02 byte WIT
+		02 byte AGI
+		02 byte SP
+		16 byte ?
+		01 byte FIRE LEVEL
+		01 byte WATER LEVEL
+		01 byte WIND LEVEL
+		01 byte EARTH LEVEL
+		01 byte WEAPON1 LEVEL
+		01 byte WEAPON2 LEVEL
+		01 byte WEAPON3 LEVEL
+		01 byte WEAPON4 LEVEL
+		01 byte CURR MP1
+		01 byte MAX MP1
+		01 byte CURR MP2
+		01 byte MAX MP2
+		01 byte CURR MP3
+		01 byte MAX MP3
+		01 byte Magic/Move Resist
+		01 byte Plague/Poison Resist
+		01 byte Paralysis/Sleep Resist
+		01 byte Fire/Water Resist
+		01 byte Wind/Earth Resist
+		02 byte WEAPON ID
+		02 byte SHIELD
+		02 byte ARMOUR
+		02 byte HELMET
+		02 byte FOOTWEAR
+		02 byte ACCESSORY
+	12x 02 byte ITEM
+		04 byte ?
+		
+		0x01 = ?
+		0x02 = ?
+		0x04 = ?
+		0x08 = PZN
+		0x10 = PLG
+		0x20 = MOV
+		0x40 = MAG
+		0x80 = DED
+	
+	
+FIELD/WINDT.BIN
+	spells/skills/items field data
+	
+	0x00 - offset to item names
+	0x04 - offset to extended item names
+	0x08 - offset to item descriptions
+	0x0C - offset to item data
+	0x10 - offset to spell/move names
+	0x14 - offset to extended spell/move names
+	0x18 - offset to spell/move descriptions
+	0x1C - offset to spell/move data
+	
+	Spell data offset $BB10
+	Spell requirements offset $C717($2B5 length)
+	
+	4 byte item offset
+	4 byte item full name offset
+	4 byte item description offset
+	4 byte item data offset
+	4 byte magic offset
+	4 byte magic full name offset
+	4 byte desciption offset
+	4 byte magic offset
+	4 byte magic requirements offset
+	4 byte ??? offset
+	4 byte ??? offset
+	
+	ITEMS(28 byte entries)
+		2 byte ID?
+		1 byte Equipment Type
+		1 byte Usability Type
+		2 byte Cost
+		1 byte Icon
+		1 byte Equip Bitflag
+		1 byte Weapon Type
+			01 = Knife
+			02 = Sword
+			03 = Mace
+			04 = Axe
+			05 = Whip
+			06 = Throw
+			07 =
+			08 = Fire
+			09 = Water
+			0A = Wind
+			0B = Earth
+		1 byte Magic	//Uses Magic ID
+		2 byte Magic Power
+		1 byte ELM_MONST
+		1 byte AUTO-EFF
+		1 byte AUTO_PAR1
+		1 byte AUTO-PAR2
+		1 byte parameter type 1
+		1 byte parameter type 2
+		1 byte parameter type 3
+		1 byte parameter type 4
+			0 = spell cast time?
+			1 = strength
+			2 = vitality
+			3 = wit
+			4 = agility
+			9 = attack range
+			10 = +/-x combo
+			11 = +/-x critial
+			13 = SP restore
+			14 = SP restore when hit
+			16 = IP loss?
+			17 = ???
+			18 = Knockback?
+			19 = magic power?
+			21 = magic block
+			22 = move block
+			23 = plague?
+			24 = poison
+			26 = sleep
+			27 = confusion
+			28 = all status
+			29 = fire
+			30 = water
+			31 = wind
+			32 = earth
+			33 = all magic?
+			34 = critial resist
+			35 = sudden death
+			36 = skill power?
+		x byte parameter value 1
+		x byte parameter value 2
+		x byte parameter value 3
+		x byte parameter value 4
+		1 byte Drop Animation
+		1 byte ???
+		
+		Parameter type 1 - 4 are 2 byte values, otherwise 1 byte?
+		
+	MOVES(24 byte entries)(117 moves, $AF8 size)
+		1 byte ID
+		1 byte ID
+		2 byte Cost
+		2 byte Cast Time
+		2 byte ATTACK_IP(knockback?)
+		2 byte Power
+		1 byte Target
+			51 = One Enemy
+			52 = AoE Enemy
+			53 = All Enemy
+			60 = Self Buff
+			61 = One Ally Buff
+			62 = AoE Ally Buff
+			63 = All Ally Buff
+			E1 = One Ally
+			E2 = AoE Ally
+			E3 = All Ally
+		1 byte Move Level(double digit, says their position?)
+		1 byte EXP
+		1 byte Radius
+		1 byte Element Bitflag(add base elements to make combinations(i.e. - fire(0x10 + earth(0x80) = explosion(0x90)))
+			10 - Fire
+			20 - Water
+			40 - Wind
+			50 - Thunder
+			60 - Ice
+			80 - Earth
+			90 - Explosion
+			A0 - Forest
+		1 byte Weapon Usable Bitflag(Only for Specials)
+			01 = Knife
+			02 = Sword
+			04 = Mace
+			08 = Axe
+			16 = Whip
+			32 = Throw
+		1 byte WALK
+			32 = Walk to execute
+		1 byte Critial Chance
+		1 byte Effect Type
+			0 = Recovery
+			3 = Damage
+			5 = Debuff
+			6 = Recovery
+			7 = Debuff
+			8 = MP Drain
+			9 = Status Change
+		1 byte EFF_KIND
+		1 byte Animation
+		1 byte OUT_TYPE?
+		1 byte Icon
+		1 byte ???
+		
+	MOVE REQUIREMENTS(7 byte entries)(117 requirements, $333 size)
+		1 byte Type1
+			01 = Knife
+			02 = Sword
+			03 = Mace
+			04 = Axe
+			05 = Whip
+			06 = Throw
+			07 =
+			08 = Fire
+			09 = Water
+			0A = Wind
+			0B = Earth
+		1 byte Type1 Level
+		1 byte Type2
+		1 byte Type2 Level
+		1 byte Type3
+		1 byte Type3 Level
+		1 byte Character Bitflag
+			01 = JUSTIN
+			02 = FEENA
+			04 = SUE
+			08 = GADWIN
+			10 = RAPP
+			20 = MILDA
+			40 = GUIDO
+			80 = LIETE
+			
+	
+BATLE/M_DAT.BIN
+	//	File is broken up into a file per enemy
+	//	each enemy file contains a header, which contains offsets to specific parts of data
+	//	all offsets are relative to that enemy file(NOT M_DAT.BIN)
+	//	main offsets for enemy data are: 0x0C(enemy stats offset), and 0x10(enemy moves offset)
+	//	header entry for end of file is unknown, both next file offset and length of section have not been found
+	ENEMY DATA(3E(62) byte entries)
+		1 byte ID
+		1 byte Level
+		2 byte HP
+		2 byte STR
+		2 byte VIT
+		2 byte WIT
+		2 byte AGI
+		2 byte ???
+		2 byte EXP
+		2 byte GP
+		1 byte ???
+		1 byte ???
+		2 byte Item drop ID 1
+		2 byte Item drop ID 2
+		1 byte Item drop % 1
+		1 byte Item drop % 2
+		1 byte MP1
+		1 byte MP2
+		1 byte MP3
+		1 byte Magic Power
+		1 byte Skill ID 1
+		1 byte Skill ID 2
+		1 byte Skill ID 3
+		1 byte Skill ID 4
+		1 byte # Attacks
+		1 byte Range
+		2 byte ???
+		2 byte IP Knockback
+		1 byte Magic Block Resist
+		1 byte Move Block Resist
+		1 byte Plague Resist
+		1 byte Poison Resist
+		1 byte Paralysis Resist
+		1 byte Sleep Resist
+		1 byte Confusion Resist
+		1 byte Critical Resist
+		1 byte Fire Resist
+		1 byte Water Resist
+		1 byte Wind Resist
+		1 byte Earth Resist
+		2 byte Size
+		2 byte Size
+		1 byte ???
+		1 byte Type
+			1 = HUMAN/BEAST
+			2 = 
+			3 = BIRD
+			4 = INSECT
+			5 = PLANT
+			6 = DEMON
+			7 = SEA
+			8 = NEBULOUS
+			9 = DRAGON
+			A = GHOST
+			B = GAIA
+			C = BAT
+			D = SNAKE
+			E = 
+			F =
+		7 byte ???
+		1 byte Icon(IP gauge icon)
+		
+	ENEMY MOVES(0x16(22) byte entries + 0x1E(30) byte name/description)
+		01 byte Enemy ID(appears to always matches enemy ID)
+		01 byte Move #(appears to increment with every move listing for an enemy, resets per enemy)
+		01 byte Target
+		01 byte ???
+		02 byte Cast Time
+		02 byte PWR
+		14 byte ???
+		30 byte name/description, 00 padded

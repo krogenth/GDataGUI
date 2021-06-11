@@ -1,0 +1,10 @@
+# files
+*.user
+
+# directories
+/GDataGUI/bin/
+/GDataGUI/obj/
+/.vs/
+/vs/.vs/
+/vs/GDataGUI/bin/
+/vs/GDataGUI/obj/

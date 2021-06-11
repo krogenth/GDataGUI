@@ -1,0 +1,194 @@
+SHOP AREAS
+
+2C00-Port of Parm
+204C-Parm(SHOP)
+2404-Sult Ruins (1)
+2406-Sult Ruins (2)
+2800-Leck Mines (Outside)
+2814-Leck Mines Deepest depths
+301C-Steamer(SHOP)
+340C-Ghost Ship Hold
+3410-Ghost Ship Bottom
+341C-Ghost Ship Lower Deck
+3420-Ghost Ship Mid Deck
+3424-Ghost Ship Hall
+3428-Ghost Ship Cabin
+3800-Port of New Parm
+3C08-New Parm(SHOP)
+4000-Feena's House and Vicinity
+4004-Feena's House
+4008-Herb Mountains
+400C-Merril Road
+4400-Dom Ruins Vestibule
+4404-Dom Ruins (1)
+4408-Dom Ruins (Cliff)
+440C-Dom Ruins (2)
+4414-Road to Dom Ruins
+4808-East Misty Forest (2)
+4810-East Misty Forest (1)
+480C-East Misty Forest (3)
+4C0A-Garlyle Base (Outside)
+4C0C-Garlyle Base
+5004-Train
+5400-Luc Village
+5414-Luc Village(SHOP)
+5415-Luc Village(SHOP)
+5800-God of Light Mountain (Foot)
+5802-God of Light Mountain (Night)
+5808-God of Light Mountain (Peak)
+6004-End of the World (1)
+600C-End of the World (3)
+6024-End of the World (9)
+6400-VFD (1)
+6404-VFD (2)
+6800-Dight
+6808-Dight(SHOP)
+6810-Dr Alma's Clinic
+6834-Dight (House 6)
+6C00-Mt Typhoon
+6C0C-Typhoon Tower (2)
+6C10-Typhoon Tower (Room of Rain)
+7000-North Lama Mountains
+7004-South Lama Mountains
+7400-Gumbo
+7408-Gumbo(SHOP)
+7800-Volcano Slope 1
+7804-Volcano Slope 2
+7808-Volcano Crater
+780C-Base of the Volcano
+7C00-Twin Towers (Vestibule)
+8004-MVH
+8008-MVH Teleport Room
+8802-Sea Dragon Outside
+8804-Sea Dragon Inside
+8C00-Pirate island
+200C-Justins room
+
+
+
+Disc 2
+
+
+9000-Virgin Forest (1)
+9004-Virgin Forest (2)
+9008-Virgin Forest (3)
+9010-Guido's Tent (Virgin Forest)
+900C-Virgin Forest (4)
+9400-Cafu Village
+940C-Elder's House (Cafu)
+941C-House 6 (Cafu)
+9428-House 3 (1st Floor)
+942C-House 3 (2nd Floor)
+9600-Petrified Forest (1)
+9604-Petrified Forest (2)
+9804-Tower of Doom (Outside)
+9805-Tower of Doom (Warehouse)
+9808-Tower of Doom (1st Floor)
+980C-Tower of Doom (2nd Floor)
+9810-Tower of Doom (3rd Floor)
+9814-Tower of Doom (4th Floor)
+9C00-North Zil Desert
+9C04-South Zil Desert
+9C10-North?
+9C14-South?
+9C18-West Savanna
+9C0C-East Savanna
+9C1C-East Savanna(Raining)
+A000-Zil Padon
+A004-Zil Padon Hotel
+A008-Zil Padon Hotel (Hall)
+A00C-Zil Padon Hotel (Room A)
+A00C-Zil Padon Hotel (Room B)
+A010-Zil Padon(Shop)
+A02C-Zil Padon Hotel (Apartment B)
+A03A-ToT Launch Pad
+A200-Zil Padon (Gaia's Attack)
+A202-Zil Padon (Gaia's Attack End)
+A203-Zil Padon (Before Spirit Sanctuary)
+A400-CoD (Outside)
+A404-CoD (Great Hall)
+A40C-CoD Cemetary
+A41C-CoD Small Room
+A42C-CoD Lord's Chamber
+A800-Laine Village
+A808-Laine Village (Shop)
+A80C-House of Dorlin
+A80E-Vacant House
+AC04-Soldier's Graveyard (1)
+AC08-Soldier's Graveyard (B2)
+AC0C-Soldier's Graveyard (B3)
+AC10-Soldier's Graveyard (B4 West)
+AC14-Soldier's Graveyard (B4 East)
+AC18-Soldier's Graveyard (B5)
+B400-ToT (Outside)
+B404-ToT (Top Floor)
+B408-ToT (1st Floor)
+B40C-ToT (2nd Floor)
+B43C-ToT (Rampart 2)
+B800-Underground Ruins (1)
+B804-Underground Ruins (2)
+B808-Underground Ruins (4)
+B80C-Underground Ruins (Shrine 1)
+B810-Underground Ruins (Shrine 2)
+B818-Underground Ruins (B3)
+B818-Underground Ruins (B2)
+B81C-Underground Ruins (B1)
+B818-Underground Ruins (Exit)
+BA04-The Granduer (Deck)
+BA08-The Granduer (Passageway)
+BA0C-The Granduer (Engine Room)
+BA10-The Granduer (Control Room)
+BA3C-The Granduer (Baal Fight)
+BC00-Rainbow Mountain (Peak)
+BC04-Rainbow Mountain (Foot)
+C000-Alent (Holy Garden)
+C004-Shrine of Alent (Chapel)
+C008-Shrine of Alent (Papal Hall)
+
+c800-North Brinan Plateau
+c802-North Brinan Plateau (Guido's Tent)
+c804-South Brinan Plateau
+
+CA00-West Luzet Mountains
+CA04-East Luzet Mountains
+CA08-West Luzet Mountains (After Gaia)
+CA0C-East Luzet Mountains (After Gaia)
+
+
+C400-Warp Space (1)
+C404-Warp Space (2)
+C408-Warp Space (3)
+C40C-Warp Space Core
+
+CC00-J Base (Outside)
+CC04-J Base (Hanger)
+CC06-J Base (Hanger) (After Gaia)
+CC0A-J Base (Command Center)
+CC0C-J Base (TACOM Center)
+CC1A-J Base (Control Room)
+
+D000-Underground Railway Ruins (1)
+D008-Underground Railway Ruins (2)
+D00C-Underground Railway Ruins (3)
+
+D400-Field Base (1)
+D40C-Field Base (PX Store)
+
+
+D808-Spirit Sanctuary
+
+DC02-Icarian City (1)
+DC04-Icarian City (2)
+DC08-Icarian City (3)
+DC0C-Icarian City (4)
+DC10-Icarian City (5)
+
+
+E004-Gaia (1)
+E006-Gaia (2)
+E008-Gaia (3)
+E010-Gaia (4)
+E018-Gaia (5)
+
+
+
