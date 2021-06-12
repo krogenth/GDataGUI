@@ -96,6 +96,7 @@ FIELD/WINDT.BIN
 	0x14 - offset to extended spell/move names
 	0x18 - offset to spell/move descriptions
 	0x1C - offset to spell/move data
+	0x20 - offset to spell/move requirements
 	
 	Spell data offset $BB10
 	Spell requirements offset $C717($2B5 length)
