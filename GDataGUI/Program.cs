@@ -14,6 +14,8 @@ namespace GDataGUI
         [STAThread]
         static void Main()
         {
+            moveDataClass moveData = new moveDataClass();
+            moveData.readMoveData();
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
