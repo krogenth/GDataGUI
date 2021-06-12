@@ -70,6 +70,9 @@ namespace GDataGUI
         const int charStartDataPointerOffset = 0x00;
         const int unknownDataPointerOffset = 0x04;
 
+        int charStartDataOffset;
+        int unknownDataOffset;
+
         public string[] charNames = {"Justin", "Feena", "Sue", "Gadwin", "Rapp", "Milda", "Guido", "Liete"};
         public List<charData> chars = new List<charData>();
 
@@ -79,8 +82,8 @@ namespace GDataGUI
             using (BinaryReader file = new BinaryReader(File.Open(mcharFile, FileMode.Open)))
             {
                 file.BaseStream.Seek(charStartDataPointerOffset, SeekOrigin.Begin);
-                int charStartDataOffset = file.ReadInt32();
-                int unknownDataOffset = file.ReadInt32();
+                charStartDataOffset = file.ReadInt32();
+                unknownDataOffset = file.ReadInt32();
 
                 //  move stream position to beginning of character starting data section
                 file.BaseStream.Position = charStartDataOffset;
@@ -143,6 +146,74 @@ namespace GDataGUI
                     chars[i].unknown5 = file.ReadInt32();
 
                     i++;
+                }
+            }
+        }
+
+        public void writeCharData()
+        {
+            //  check how many entries are currently stored, if there are none, then we never read in anything
+            if (chars.Count == 0)
+                return;
+
+            using (BinaryWriter file = new BinaryWriter(File.Open(mcharFile, FileMode.Open)))
+            {
+                file.BaseStream.Position = charStartDataOffset;
+                foreach(charData chara in chars)
+                {
+                    file.Write(chara.startExp);
+                    file.Write(chara.nextExp);
+                    file.Write(chara.level);
+                    file.Write(chara.comboCrit);
+                    file.Write(chara.hp);
+                    file.Write(chara.str);
+                    file.Write(chara.vit);
+                    file.Write(chara.wit);
+                    file.Write(chara.agi);
+                    file.Write(chara.sp);
+                    file.Write(chara.unknown1);
+                    file.Write(chara.unknown2);
+                    file.Write(chara.unknown3);
+                    file.Write(chara.unknown4);
+                    file.Write(chara.fireLevel);
+                    file.Write(chara.waterLevel);
+                    file.Write(chara.windLevel);
+                    file.Write(chara.earthLevel);
+                    file.Write(chara.wpnLevel1);
+                    file.Write(chara.wpnLevel2);
+                    file.Write(chara.wpnLevel3);
+                    file.Write(chara.wpnLevel4);
+                    file.Write(chara.currMp1);
+                    file.Write(chara.maxMp1);
+                    file.Write(chara.currMp2);
+                    file.Write(chara.maxMp2);
+                    file.Write(chara.currMp3);
+                    file.Write(chara.maxMp3);
+                    file.Write(chara.magicMoveRes);
+                    file.Write(chara.plaguePoisonRes);
+                    file.Write(chara.paraSleepRes);
+                    file.Write(chara.confuseCritRes);
+                    file.Write(chara.fireWaterRes);
+                    file.Write(chara.windEarthRes);
+                    file.Write(chara.weaponId);
+                    file.Write(chara.shieldId);
+                    file.Write(chara.armourId);
+                    file.Write(chara.helmetId);
+                    file.Write(chara.footId);
+                    file.Write(chara.accId);
+                    file.Write(chara.item1);
+                    file.Write(chara.item2);
+                    file.Write(chara.item3);
+                    file.Write(chara.item4);
+                    file.Write(chara.item5);
+                    file.Write(chara.item6);
+                    file.Write(chara.item7);
+                    file.Write(chara.item8);
+                    file.Write(chara.item9);
+                    file.Write(chara.item10);
+                    file.Write(chara.item11);
+                    file.Write(chara.item12);
+                    file.Write(chara.unknown5);
                 }
             }
         }

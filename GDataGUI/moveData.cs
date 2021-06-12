@@ -87,6 +87,12 @@ namespace GDataGUI
         const int moveDataPointerOffset = 0x1C;
         const int moveRequirePointerOffset = 0x20;
 
+        int moveNameOffset;
+        int moveENameOffset;
+        int moveDescriptOffset;
+        int moveDataOffset;
+        int moveRequireOffset;
+
         public List<moveData> moves = new List<moveData>();
 
         public void readMoveData()
@@ -96,11 +102,11 @@ namespace GDataGUI
             using (BinaryReader file = new BinaryReader(File.Open(windtFile, FileMode.Open)))
             {
                 file.BaseStream.Seek(moveNamePointerOffset, SeekOrigin.Begin);
-                int moveNameOffset = file.ReadInt32();
-                int moveENameOffset = file.ReadInt32();
-                int moveDescriptOffset = file.ReadInt32();
-                int moveDataOffset = file.ReadInt32();
-                int moveRequireOffset = file.ReadInt32();
+                moveNameOffset = file.ReadInt32();
+                moveENameOffset = file.ReadInt32();
+                moveDescriptOffset = file.ReadInt32();
+                moveDataOffset = file.ReadInt32();
+                moveRequireOffset = file.ReadInt32();
 
                 //  move stream position to beginning of move name section
                 file.BaseStream.Position = moveNameOffset;
@@ -176,7 +182,7 @@ namespace GDataGUI
                 }
 
                 //  move stream position to beginning of move requirements section
-                //  we add the size of the struct because every section starts with an empty entry, but this has to be jumped over
+                //  we add the size of the struct because every section starts with an empty entry, but this is not delimited
                 file.BaseStream.Position = moveRequireOffset + System.Runtime.InteropServices.Marshal.SizeOf(typeof(moveRequirements));
                 foreach(moveData move in moves)
                 {
@@ -187,6 +193,84 @@ namespace GDataGUI
                     move.requirements.type3 = file.ReadByte();
                     move.requirements.typeLevel3 = file.ReadByte();
                     move.requirements.charBitflag = file.ReadByte();
+                }
+            }
+        }
+
+        public void writeMoveData()
+        {
+            //  check how many entries are currently stored, if there are none, then we never read in anything
+            if (moves.Count == 0)
+                return;
+
+            using (BinaryWriter file = new BinaryWriter(File.Open(windtFile, FileMode.Open)))
+            {
+                //  for writing, we already know how many entries there are, so just write them immediately
+
+                //  move stream position to beginning of move name section
+                file.BaseStream.Position = moveNameOffset;
+                foreach (moveData move in moves)
+                {
+                    file.Write((byte)0);        //  enter delimiter first because of empty first entry
+                    file.Write(move.name.name.ToCharArray());
+                }
+
+                //  move stream position to beginning of move extended name section
+                file.BaseStream.Position = moveENameOffset;
+                foreach(moveData move in moves)
+                {
+                    file.Write((byte)0);        //  same as for the names, do delimiter first because of empty entry
+                    file.Write((byte)3);
+                    file.Write(move.extendedName.extendedName.ToCharArray());
+                }
+
+                //  move stream position to beginning of move description section
+                file.BaseStream.Position = moveDescriptOffset;
+                foreach (moveData move in moves)
+                {
+                    file.Write((byte)0);        //  same as the extended names
+                    file.Write((byte)3);
+                    file.Write(move.description.description.ToCharArray());
+                }
+
+                //  move stream position to beginning of move description section
+                file.BaseStream.Position = moveDataOffset;
+                foreach(moveData move in moves)
+                {
+                    file.Write(move.data.id);
+                    file.Write(move.data.id2);
+                    file.Write(move.data.cost);
+                    file.Write(move.data.castTime);
+                    file.Write(move.data.attackIp);
+                    file.Write(move.data.power);
+                    file.Write(move.data.targetType);
+                    file.Write(move.data.moveLevel);
+                    file.Write(move.data.exp);
+                    file.Write(move.data.radius);
+                    file.Write(move.data.elementBitflag);
+                    file.Write(move.data.weaponBitflag);
+                    file.Write(move.data.movementType);
+                    file.Write(move.data.critChance);
+                    file.Write(move.data.effectType);
+                    file.Write(move.data.unknown1);
+                    file.Write(move.data.animation);
+                    file.Write(move.data.unknown2);
+                    file.Write(move.data.icon);
+                    file.Write(move.data.unknown3);
+                }
+
+                //  move stream position to beginning of move requirements section
+                //  we add the size of the struct because every section starts with an empty entry, but this has to be jumped over
+                file.BaseStream.Position = moveRequireOffset + System.Runtime.InteropServices.Marshal.SizeOf(typeof(moveRequirements));
+                foreach (moveData move in moves)
+                {
+                    file.Write(move.requirements.type1);
+                    file.Write(move.requirements.typeLevel1);
+                    file.Write(move.requirements.type2);
+                    file.Write(move.requirements.typeLevel2);
+                    file.Write(move.requirements.type3);
+                    file.Write(move.requirements.typeLevel3);
+                    file.Write(move.requirements.charBitflag);
                 }
             }
         }

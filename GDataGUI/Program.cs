@@ -20,6 +20,9 @@ namespace GDataGUI
             itemData.readItemData();
             charDataClass charData = new charDataClass();
             charData.readCharData();
+            moveData.writeMoveData();
+            itemData.writeItemData();
+            charData.writeCharData();
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

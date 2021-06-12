@@ -70,6 +70,11 @@ namespace GDataGUI
         const int itemDescriptPointerOffset = 0x08;
         const int itemDataPointerOffset = 0x0C;
 
+        int itemNameOffset;
+        int itemENameOffset;
+        int itemDescriptOffset;
+        int itemDataOffset;
+
         public List<itemData> items = new List<itemData>();
 
         public void readItemData()
@@ -79,10 +84,10 @@ namespace GDataGUI
             using (BinaryReader file = new BinaryReader(File.Open(windtFile, FileMode.Open)))
             {
                 file.BaseStream.Seek(itemNamePointerOffset, SeekOrigin.Begin);
-                int itemNameOffset = file.ReadInt32();
-                int itemENameOffset = file.ReadInt32();
-                int itemDescriptOffset = file.ReadInt32();
-                int itemDataOffset = file.ReadInt32();
+                itemNameOffset = file.ReadInt32();
+                itemENameOffset = file.ReadInt32();
+                itemDescriptOffset = file.ReadInt32();
+                itemDataOffset = file.ReadInt32();
 
                 //  move stream position to beginning of move name section
                 file.BaseStream.Position = itemNameOffset;
@@ -155,6 +160,70 @@ namespace GDataGUI
                     item.data.parameterValue2 = file.ReadInt16();
                     item.data.parameterValue3 = file.ReadInt16();
                     item.data.parameterValue4 = file.ReadInt16();
+                }
+            }
+        }
+
+        public void writeItemData()
+        {
+            //  check how many entries are currently stored, if there are none, then we never read in anything
+            if (items.Count == 0)
+                return;
+
+            using (BinaryWriter file = new BinaryWriter(File.Open(windtFile, FileMode.Open)))
+            {
+                //  for writing, we already know how many entries there are, so just write them immediately
+
+                //  move stream position to beginning of item name section
+                file.BaseStream.Position = itemNameOffset;
+                foreach(itemData item in items)
+                {
+                    file.Write((byte)0);        //  enter delimiter first because of empty first entry
+                    file.Write(item.name.name.ToCharArray());
+                }
+
+                //  move stream position to beginning of item extended name section
+                file.BaseStream.Position = itemENameOffset;
+                foreach(itemData item in items)
+                {
+                    file.Write((byte)0);        //  same as for the names, do delimiter first because of empty entry
+                    file.Write((byte)3);
+                    file.Write(item.extendedName.extendedName.ToCharArray());
+                }
+
+                //  move stream position to beginning of move description section
+                file.BaseStream.Position = itemDescriptOffset;
+                foreach (itemData item in items)
+                {
+                    file.Write((byte)0);        //  same as the extended names
+                    file.Write((byte)3);
+                    file.Write(item.description.description.ToCharArray());
+                }
+
+                //  move stream position to beginning of item description section
+                file.BaseStream.Position = itemDataOffset;
+                foreach (itemData item in items)
+                {
+                    file.Write(item.data.id);
+                    file.Write(item.data.equipType);
+                    file.Write(item.data.usableType);
+                    file.Write(item.data.cost);
+                    file.Write(item.data.icon);
+                    file.Write(item.data.charBitflag);
+                    file.Write(item.data.weaponType);
+                    file.Write(item.data.spellId);
+                    file.Write(item.data.spellPower);
+                    file.Write(item.data.elementBitflag);
+                    file.Write(item.data.autoEffect);
+                    file.Write(item.data.autoEffectPower);
+                    file.Write(item.data.parameter1);
+                    file.Write(item.data.parameter2);
+                    file.Write(item.data.parameter3);
+                    file.Write(item.data.parameter4);
+                    file.Write(item.data.parameterValue1);
+                    file.Write(item.data.parameterValue2);
+                    file.Write(item.data.parameterValue3);
+                    file.Write(item.data.parameterValue4);
                 }
             }
         }
