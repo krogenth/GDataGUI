@@ -16,6 +16,8 @@ namespace GDataGUI
         {
             moveDataClass moveData = new moveDataClass();
             moveData.readMoveData();
+            itemDataClass itemData = new itemDataClass();
+            itemData.readItemData();
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
