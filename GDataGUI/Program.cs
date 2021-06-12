@@ -18,6 +18,8 @@ namespace GDataGUI
             moveData.readMoveData();
             itemDataClass itemData = new itemDataClass();
             itemData.readItemData();
+            charDataClass charData = new charDataClass();
+            charData.readCharData();
             Application.SetHighDpiMode(HighDpiMode.SystemAware);
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);

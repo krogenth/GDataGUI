@@ -135,28 +135,6 @@ namespace GDataGUI
                 file.BaseStream.Position = itemDataOffset;
                 foreach (itemData item in items)
                 {
-                    /*
-                    public short id;
-                    public byte equipType;
-                    public byte usableType;
-                    public short cost;
-                    public byte icon;
-                    public byte equipBitflag;
-                    public byte weaponType;
-                    public byte spellId;
-                    public short spellPower;
-                    public byte elementBitflag;
-                    public byte autoEffect;
-                    public short autoEffectPower;
-                    public byte parameter1;
-                    public byte parameter2;
-                    public byte parameter3;
-                    public byte parameter4;
-                    public short parameterValue1;
-                    public short parameterValue2;
-                    public short parameterValue3;
-                    public short parameterValue4;
-                    */
                     item.data.id = file.ReadInt16();
                     item.data.equipType = file.ReadByte();
                     item.data.usableType = file.ReadByte();
